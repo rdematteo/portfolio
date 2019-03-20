@@ -1,0 +1,184 @@
+@import '../../styles/buttons.css';
+
+* body {
+  margin: 0;
+  border: 0;
+}
+
+.fab {
+  color: white;
+}
+
+:root {
+  --light-yellow: #FEFFEF;
+  --light-brown: #FFC883;
+  --black: #000000;
+  --coder-yellow: #FEFFEF;
+  --sci-blue: #AEE9FE;
+  --edu-salmon: #FECFCB;
+}
+
+.outer-container {
+  width: 100vw;
+  height: 100vh;
+  background: pink;
+  display: flex;
+  flex-flow: column;
+}
+
+
+/* top div */
+.top-container {
+  height: 10%;
+  width: 100%;
+  background: url(../../pics/landing_page_smaller_res.jpg);
+  background-position: center;
+  background-size: cover; 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+/* links to linkedin and github */
+.nav-box {
+  height: 50px;
+  width: 100px;
+  background: red;
+  display: flex;
+  justify-content: stretch;
+  padding: 10px 10px;
+  align-items: center;
+}
+
+.icons {
+  width: 60px;
+}
+
+
+.inner-container {
+  width: 100%;
+  height: 100%;
+  background: red;
+  display: flex;
+
+}
+
+.main {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.blurb {
+  width: 50%;
+  height: 20%;
+  background: white;
+
+}
+
+.blurb p {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+/* form details */
+.form {
+  width: 50%;
+  height: 50%;
+  background: yellow;
+  
+}
+
+.name {
+  font-family: 'Merriweather', serif;
+  font-size: 36px;
+}
+
+.email {
+  font-family: 'Merriweather', serif;
+  font-size: 36px;
+}
+
+#name {
+  width: 50%;
+  padding: 10px 10px;
+  margin: 0px 0px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+#email {
+  width: 50%;
+  padding: 10px 10px;
+  margin: 10px 0px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+#submit {
+  background: var(--light-yellow);
+  color:black;
+  border-style: outset;
+  border: 2px solid red;
+  height: 50px;
+  width: 100px;
+  font: bold 15px arial, sans-serif;
+  text-shadow: none;
+  border-radius: 20px;
+  
+  }
+
+  #submit:hover {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    text-shadow: none;
+    cursor: pointer;
+    }
+
+
+
+/* rhs sidebar nav */
+.sidenav {
+  height: 100%; 
+  width: 10%; 
+  background: url(../../pics/projects.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #111;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end
+}
+
+.links {
+  /* background: red; */
+  height: 75%;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+.linksextra {
+  /* background: blue; */
+  width: 40px;
+  height: 25%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  align-items: flex-end;
+  /* background: red; */
+}

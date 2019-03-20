@@ -105,7 +105,7 @@
 #name {
   width: 50%;
   padding: 10px 10px;
-  margin: 0px 0px;
+  margin: 10px 0px;
   box-sizing: border-box;
   font-size: 16px;
   border-radius: 5px;
@@ -122,27 +122,39 @@
   border: 5px solid #66CBA2;
 }
 
+#message {
+  width: 50%;
+  padding: 10px 10px;
+  margin:10px 0px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 5px solid #66CBA2;
+}
+
 #submit {
   background: var(--light-yellow);
   color:black;
-  border-style: outset;
-  border: 3px solid #66CBA2;
+  /* border-style: outset; */
+  /* border: 3px solid #66CBA2; */
   height: 50px;
   width: 100px;
   font: bold 15px arial, sans-serif;
   text-shadow: none;
   border-radius: 20px;
+  padding: 10px 10px;
   
   }
 
   #submit:hover {
-    background: #016ABC;
-    color: #fff;
-    border: 1px solid #eee;
+    background: black;
+    color: var(--light-yellow);
+    /* border: 1px solid #eee; */
     border-radius: 20px;
-    box-shadow: 5px 5px 5px black;
+    /* box-shadow: 5px 5px 5px black; */
     text-shadow: none;
     cursor: pointer;
+    transition: 0.5s;
     }
 
 

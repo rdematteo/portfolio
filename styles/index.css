@@ -101,3 +101,31 @@ align-items: center;
   /* color: red; */
   background: black;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+    background: orange
+  }
+ 
+  .name {
+    font-size: 24px;
+    padding: 0px 0px 10px 0px;
+  }
+
+  .job {
+    font-size: 18px;
+    padding: 0px 0px 10px 0px;
+  }
+  
+  .welcome {
+    font-size: 16px;
+    padding: 0px 0px 10px 0px;
+  }
+
+  .container {
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}

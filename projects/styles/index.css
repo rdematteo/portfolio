@@ -28,7 +28,7 @@
 
 /* top div */
 .top-container {
-  height: 10%;
+  height: 20%;
   width: 100%;
   background: url(../../pics/landing_page_smaller_res.jpg);
   background-position: center;
@@ -81,9 +81,10 @@
   /* background: green; */
   font-family: 'Merriweather', serif;
   font-size: 72px;
-  padding: 0px 0px;
+  padding: 0px 0px 0px 30px;
   font-style: italic;
-  text-align: center
+  text-align: left;
+  color: #128756;
 }
 
 .project-boxes {
@@ -112,11 +113,11 @@
 .text-project1 {
   width: 80%;
   height: 90%;
-  background: black;
+  background: white;
 }
 
 .text-project1 p {
-  color: white;
+  color: black;
   font-size: 14px;
   text-align: justify;
 }
@@ -140,12 +141,12 @@
 .text-project2 {
   width: 80%;
   height: 90%;
-  background: black;
+  background: white;
   
 }
 
 .text-project2 p {
-  color: white;
+  color: black;
   font-size: 14px;
   text-align: justify;
 }
@@ -168,10 +169,10 @@
 .text-project3 {
   width: 80%;
   height: 90%;
-  background: black;
+  background: white;
 }
 .text-project3 p {
-  color: white;
+  color: black;
   font-size: 14px;
   text-align: justify;
 }

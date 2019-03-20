@@ -5,6 +5,10 @@
   border: 0;
 }
 
+.fab {
+  color: white;
+}
+
 :root {
   --light-yellow: #FEFFEF;
   --light-brown: #FFC883;

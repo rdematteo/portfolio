@@ -1,0 +1,187 @@
+@import '../../styles/buttons.css';
+
+* body {
+  margin: 0;
+  border: 0;
+}
+
+.fab {
+  color: white;
+}
+
+:root {
+  --light-yellow: #FEFFEF;
+  --light-brown: #FFC883;
+  --black: #000000;
+  --coder-yellow: #FEFFEF;
+  --sci-blue: #AEE9FE;
+  --edu-salmon: #FECFCB;
+}
+
+.outer-container {
+  width: 100vw;
+  height: 100vh;
+  /* background: pink; */
+  display: flex;
+  flex-flow: column;
+}
+
+/* top div */
+.top-container {
+  height: 10%;
+  width: 100%;
+  background: url(../../pics/about_me.JPG);
+  background-position: center;
+  background-size: cover; 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+/* links to linkedin and github */
+.nav-box {
+  height: 50px;
+  width: 40px;
+  /* background: red; */
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 10px;
+  align-items: top;
+}
+
+/* main container */
+.main-container {
+  /* background: red; */
+  width: 100vw;
+  height: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  width: 90%;
+  height: 90%;
+  /* background: blue; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+/* next three divs are within content */
+
+.title {
+  width: 80%;
+  height: 15%;
+  /* background: red; */
+  font-family: 'Merriweather', serif;
+  font-size: 72px;
+  padding: 0px 20px;
+  font-style: italic;
+}
+
+.blurb {
+  width: 80%;
+  height: 20%;
+  /* background: purple; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding: 0px 0px;
+}
+
+.skill {
+  width: 80%;
+  height: 70%;
+  /* background: black; */
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* next three divs are within skill */
+
+.coder {
+  width: 30%;
+  height: 100%;
+  background:var(--coder-yellow);
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 24 px;
+  padding: 0px 5px;
+  font-style: italic;
+}
+
+.coder p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.scientist {
+  width: 30%;
+  height: 100%;
+  background:var(--sci-blue);
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 24 px;
+  padding: 0px 5px;
+  font-style: italic;
+}
+.scientist p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+.edu {
+  width: 30%;
+  height: 100%;
+  background: var(--edu-salmon);
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 24 px;
+  padding: 0px 5px;
+  font-style: italic;
+}
+.edu p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+
+
+.lower p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+/* rhs sidebar nav */
+.sidenav {
+  height: 100%; 
+  width: 10%; 
+  background: url(../../pics/skills2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-color: #111;
+  /* overflow-x: hidden; Disable horizontal scroll */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end
+}
+
+.links {
+  /* background: red; */
+  height: 75%;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+.linksextra {
+  /* background: blue; */
+  width: 40px;
+  height: 25%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  align-items: flex-end;
+  /* background: red; */
+}
+

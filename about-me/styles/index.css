@@ -149,3 +149,43 @@
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
 }
+
+@media only screen and (max-width: 900px) and (min-width: 700px) {
+  .right-box {
+    height: 90%;
+  }
+  .title {
+    font-size: 58px;
+  }
+  
+  .lower {
+    height: 70%;
+  }
+
+  .upper {
+    width: 70%;
+    height: 27%;
+    /* background: black; */
+    display: flex;
+    align-items: center;
+  }
+
+}
+
+
+@media only screen and (max-width: 700px) {
+
+  .title {
+    font-size: 40px;
+  }
+
+  .lower {
+    width: 70%;
+    height: 90%;
+    /* background:purple; */
+    text-align: justify;
+    border-top: 2px solid gray;
+    margin: 10px 0px 0px 0px;
+  }
+  
+}

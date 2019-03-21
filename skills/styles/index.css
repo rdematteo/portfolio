@@ -229,6 +229,11 @@ h1 {
   height: 350px; 
   width: 23%; 
 }
+
+.links {
+  height: 270px;
+}
+
 .linksextra {
   height:10%;
   padding: 0px 10px;

@@ -242,6 +242,9 @@ h1 {
   align-self: flex-start;
 }
 
+.links { 
+  height: 270px;
+}
 
 .linksextra {
   height:10%;

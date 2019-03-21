@@ -197,5 +197,21 @@
     background-size: contain; 
     background-repeat: no-repeat;
   }
+  .right-box {
+    width: 85%;
+    height: 92%;
+    }
+    .upper {
+      width: 70%;
+      height: 16%;
+    }
+
+  .sidenav {
+    height: 80%; 
+    width: 23%; 
+  }
+  .linksextra {
+    padding: 30px 10px;
+  }
 
 }

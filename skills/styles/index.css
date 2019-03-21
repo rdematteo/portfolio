@@ -204,12 +204,12 @@
 
 .title {
   height: 8%;
-  font-size: 40px;
-  display: flex;
-  flex-direction: column;
-
 }
 
+h1 {
+  margin:0;
+  font-size: 34px;
+}
 .content {
   height: 100%;
   display: flex;

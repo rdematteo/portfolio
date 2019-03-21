@@ -24,7 +24,7 @@
   height: 100vh;
   /* background: pink; */
   display: flex;
-  background: url(../../pics/landing_page_smaller_res.jpg);
+  background: url(../../pics/landing_page_smaller_res_flipped.jpg);
   background-position: center;
   background-size: cover; 
   justify-content: flex-start;
@@ -67,6 +67,7 @@
   background: white;
   height: 100%;
   width: 5%;
+  display: none;
 }
 
 
@@ -108,7 +109,7 @@
 
 
 .title {
-  width: 100%;
+  width: 85%;
   height: 100%;
   background: white;
   display: flex;
@@ -235,33 +236,35 @@ h1 {
 
 
 @media only screen and (max-width: 800px) {
-  .sidenav {
-    height: 350px; 
-    width: 23%; 
-    align-self: flex-start;
-  }
-  .linksextra {
-    height:10%;
-    padding: 0px 10px;
-  }
-  
-  .outer-container {
-    height: auto;
-    /* flex-direction: row-reverse; */
-    /* align-items: flex-start; */
-  }
-  h1 {
-    margin:0;
-    font-size: 34px;
-  }
-  .title {
-    height: 93%;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-  .project-boxes {
-    flex-direction: column;
-  }
+.sidenav {
+  height: 350px; 
+  width: 23%; 
+  align-self: flex-start;
+}
+
+
+.linksextra {
+  height:10%;
+  padding: 0px 10px;
+}
+
+.outer-container {
+  height: auto;
+  /* flex-direction: row-reverse; */
+  /* align-items: flex-start; */
+}
+h1 {
+  margin:0;
+  font-size: 34px;
+}
+.title {
+  height: 93%;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.project-boxes {
+  flex-direction: column;
+}
 .empty {
   display:none;
 }

@@ -16,6 +16,7 @@
   --coder-yellow: #FEFFEF;
   --sci-blue: #AEE9FE;
   --edu-salmon: #FECFCB;
+  --brown: #4C2A05;
 }
 
 .outer-container {
@@ -23,22 +24,24 @@
   height: 100vh;
   /* background: pink; */
   display: flex;
-  flex-flow: column;
+  background: url(../../pics/landing_page_smaller_res_flipped.jpg);
+  background-position: center;
+  background-size: cover; 
+  justify-content: flex-start;
+  align-items: flex-end;
 }
 
 
-/* top div */
+/* top div
 .top-container {
   height: 20%;
   width: 100%;
-  background: url(../../pics/landing_page_smaller_res.jpg);
-  background-position: center;
-  background-size: cover; 
+  
   display: flex;
   justify-content: flex-end;
   align-items: center;
+} */
 
-}
 /* links to linkedin and github */
 .nav-box {
   height: 50px;
@@ -60,16 +63,53 @@
   height: 100%;
   /* background: red; */
   display: flex;
-
 }
 
 .main {
-  width: 90%;
-  height: 100%;
+  width: 85%;
+  height: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background: white;
+}
+
+/* rhs sidebar nav */
+.sidenav {
+  height: 80%; 
+  width: 15%; 
+  /* background: url(../../pics/about_me2.jpg);
+  background-position: center;
+  background-size: cover; */
+  /* background-color: #111; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end;
+  filter: brightness(90%)
+}
+
+.links {
+  /* background: red; */
+  height: 75%;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+.linksextra {
+  /* background: blue; */
+  width: 40px;
+  height: 25%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  align-items: flex-end;
+  /* background: red; */
 }
 .blurb {
   width: 50%;
@@ -159,39 +199,3 @@
 
 
 
-/* rhs sidebar nav */
-.sidenav {
-  height: 100%; 
-  width: 10%; 
-  background: url(../../pics/about_me2.jpg);
-  background-position: center;
-  background-size: cover;
-  background-color: #111;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  align-self: flex-end;
-  filter: brightness(90%)
-}
-
-.links {
-  /* background: red; */
-  height: 75%;
-  width: 100px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-evenly;
-
-}
-
-.linksextra {
-  /* background: blue; */
-  width: 40px;
-  height: 25%;
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 10px;
-  align-items: flex-end;
-  /* background: red; */
-}

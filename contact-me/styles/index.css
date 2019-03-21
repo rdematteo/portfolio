@@ -24,7 +24,7 @@
   height: 100vh;
   /* background: pink; */
   display: flex;
-  background: url(../../pics/landing_page_smaller_res_flipped.jpg);
+  background: url(../../pics/landing_page_final.jpg);
   background-position: center;
   background-size: cover; 
   justify-content: flex-start;

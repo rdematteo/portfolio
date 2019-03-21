@@ -16,6 +16,7 @@
   --coder-yellow: #FEFFEF;
   --sci-blue: #AEE9FE;
   --edu-salmon: #FECFCB;
+  --brown: #4C2A05;
 }
 
 .outer-container {
@@ -23,11 +24,15 @@
   height: 100vh;
   /* background: pink; */
   display: flex;
-  flex-flow: column;
+  background: url(../../pics/landing_page_smaller_res.jpg);
+  background-position: center;
+  background-size: cover; 
+  justify-content: flex-start;
+  align-items: flex-end;
 }
 
 /* top div */
-.top-container {
+/* .top-container {
   height: 20%;
   width: 100%;
   background: url(../../pics/landing_page_smaller_res.jpg);
@@ -36,7 +41,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
+} */
 /* links to linkedin and github */
 .nav-box {
   height: 50px;
@@ -52,139 +57,27 @@
 .main-container {
   /* background: red; */
   width: 100%;
-  height: 100%;
+  height: 80%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .empty {
-  /* background: mediumspringgreen; */
+  background: white;
   height: 100%;
-  width: 10%;
+  width: 5%;
 }
 
-.title {
-  width: 80%;
-  height: 90%;
-  /* background: rgb(190, 8, 175); */
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-  justify-content: center;
-
-}
-
-.text {
-  width: 80%;
-  height: 20%;
-  /* background: green; */
-  font-family: 'Merriweather', serif;
-  font-size: 72px;
-  padding: 0px 0px 0px 30px;
-  font-style: italic;
-  text-align: left;
-  color: #128756;
-}
-
-.project-boxes {
-  width: 80%;
-  height: 70%;
-  /* background: gray; */
-  display: flex;
-}
-
-.project1 {
-  width: 50%;
-  height: 90%;
-  /* background:blue; */
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-}
-
-.image-project1 {
-  width: 80%;
-  height: 50%;
-  background: white;
-  border: 1px solid black;
-}
-
-.text-project1 {
-  width: 80%;
-  height: 90%;
-  background: white;
-}
-
-.text-project1 p {
-  color: black;
-  font-size: 14px;
-  text-align: justify;
-}
-
-.project2 {
-  width: 50%;
-  height: 90%;
-  /* background: red; */
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-}
-
-.image-project2 {
-  width: 80%;
-  height: 50%;
-  background: white;
-  border: 1px solid black;
-}
-
-.text-project2 {
-  width: 80%;
-  height: 90%;
-  background: white;
-  
-}
-
-.text-project2 p {
-  color: black;
-  font-size: 14px;
-  text-align: justify;
-}
-.project3 {
-  width: 50%;
-  height: 90%;
-  /* background:orange; */
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-}
-
-.image-project3 {
-  width: 80%;
-  height: 50%;
-  background: white;
-  border: 1px solid black;
-}
-
-.text-project3 {
-  width: 80%;
-  height: 90%;
-  background: white;
-}
-.text-project3 p {
-  color: black;
-  font-size: 14px;
-  text-align: justify;
-}
 
 /* rhs sidebar nav */
 .sidenav {
   height: 100%; 
-  width: 10%; 
-  background: url(../../pics/projects.jpg);
+  width: 15%; 
+  /* background: url(../../pics/projects.jpg);
   background-position: center;
   background-size: cover;
-  background-color: #111;
+  background-color: #111; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -213,3 +106,185 @@
   /* background: red; */
 }
 
+
+.title {
+  width: 100%;
+  height: 100%;
+  background: white;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin:0;
+  font-size: 72px;
+} 
+
+.text {
+  width: 80%;
+  height: 20%;
+  /* background: green; */
+  font-family: 'Merriweather', serif;
+  font-size: 72px;
+  padding: 0px 0px 0px 30px;
+  font-style: italic;
+  text-align: left;
+  color: #128756;
+}
+
+.project-boxes {
+  height: 70%;
+  width: 80%;
+  /* background: gray; */
+  display: flex;
+}
+
+.project1 {
+  width: 50%;
+  height: 90%;
+  /* background:blue; */
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.image-project1 {
+  width: 80%;
+  height: 30%;
+  background: white;
+  border: 1px solid black;
+  background-image: url(../../pics/rob_pic2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.text-project1 {
+  width: 80%;
+  height: 70%;
+  background: white;
+}
+
+.text-project1 p {
+  color: black;
+  font-size: 14px;
+  text-align: justify;
+}
+
+.project2 {
+  width: 50%;
+  height: 90%;
+  /* background: red; */
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.image-project2 {
+  width: 80%;
+  height: 30%;
+  background: white;
+  border: 1px solid black;
+  background-image: url(../../pics/rob_pic2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.text-project2 {
+  width: 80%;
+  height: 70%;
+  background: white;
+  
+}
+
+.text-project2 p {
+  color: black;
+  font-size: 14px;
+  text-align: justify;
+}
+.project3 {
+  width: 50%;
+  height: 90%;
+  /* background:orange; */
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.image-project3 {
+  width: 80%;
+  height: 30%;
+  background: white;
+  border: 1px solid black;
+  background-image: url(../../pics/rob_pic2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.text-project3 {
+  width: 80%;
+  height: 70%;
+  background: white;
+}
+.text-project3 p {
+  color: black;
+  font-size: 14px;
+  text-align: justify;
+}
+
+
+@media only screen and (max-width: 800px) {
+  .sidenav {
+    height: 350px; 
+    width: 23%; 
+    align-self: flex-start;
+  }
+  .linksextra {
+    height:10%;
+    padding: 0px 10px;
+  }
+  
+  .outer-container {
+    height: auto;
+    /* flex-direction: row-reverse; */
+    /* align-items: flex-start; */
+  }
+  h1 {
+    margin:0;
+    font-size: 34px;
+  }
+  .title {
+    height: 93%;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .project-boxes {
+    flex-direction: column;
+  }
+.empty {
+  display:none;
+}
+.project1 {
+  width: 100%;
+  height: 100%;
+}
+.project2 {
+  width: 100%;
+}
+.project3 {
+  width: 100%;
+}
+
+.image-project1 {
+  height: 150px;
+}
+
+.image-project2 {
+  height: 150px;
+}
+.image-project3 {
+  height: 150px;
+}
+
+}

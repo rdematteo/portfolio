@@ -150,7 +150,7 @@
   font-size: 16px;
 }
 
-@media only screen and (max-width: 1410px) and (min-width: 900px) {
+@media only screen and (max-width: 1200px) and (min-width: 900px) {
   .right-box {
     height: 95%;
   }

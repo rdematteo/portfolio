@@ -97,11 +97,15 @@
   height: 15%;
   /* background: red; */
   font-family: 'Merriweather', serif;
-  font-size: 72px;
   padding: 0px 0px 0px 10px;
   font-style: italic;
   color: #128756;
 }
+
+h1 {
+  margin:0;
+  font-size: 72px;
+} 
 
 .blurb {
   width: 80%;

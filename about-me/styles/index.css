@@ -150,6 +150,29 @@
   font-size: 16px;
 }
 
+@media only screen and (max-width: 1410px) and (min-width: 900px) {
+  .right-box {
+    height: 95%;
+  }
+  .title {
+    font-size: 58px;
+  }
+  
+  .lower {
+    height: 70%;
+  }
+
+  .upper {
+    width: 70%;
+    height: 27%;
+    /* background: black; */
+    display: flex;
+    align-items: center;
+  }
+
+}
+
+
 @media only screen and (max-width: 900px) and (min-width: 700px) {
   .right-box {
     height: 90%;
@@ -191,18 +214,18 @@
 
   .image {
     width: 30%;
-    height: 150%;
+    height: 100%;
     background: url(../../pics/rob_pic2.png);
     background-position: right;
-    background-size: contain; 
+    background-size: cover; 
     background-repeat: no-repeat;
   }
   .right-box {
     width: 85%;
-    height: 92%;
+    height: 100%;
     }
   .upper {
-    width: 70%;
+    width: 90%;
     height: 16%;
   }
 

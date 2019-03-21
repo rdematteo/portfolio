@@ -89,7 +89,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex-wrap: nowrap;
 }
 /* next three divs are within content */
 
@@ -172,5 +171,70 @@
   font-size: 16px;
 }
 
+@media only screen and (max-width: 800px) {
+.skill {
+  flex-direction: column;
+  height: 50%;
+}
 
+.coder {
+  width: 100%;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+
+.coder p {
+  font-size: 14px;
+  font-weight: normal;
+
+}
+
+.scientist {
+  width: 100%;
+}
+.edu {
+  width: 100%;
+}
+
+.blurb {
+  height: 100%;
+  font-size: 14px;
+}
+
+.title {
+  height: 8%;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-box {
+  height: 93%;
+  flex-direction: column;
+}
+
+.sidenav {
+  height: 350px; 
+  width: 23%; 
+}
+.linksextra {
+  height:10%;
+  padding: 0px 10px;
+}
+
+.outer-container {
+  height: auto;
+  /* flex-direction: row-reverse; */
+  align-items: flex-start
+}
+
+}
 

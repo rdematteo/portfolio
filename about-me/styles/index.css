@@ -180,10 +180,15 @@
   }
 
   .lower {
-    width: 70%;
+    width: 90%;
     height: 90%;
   }
   
+  .lower p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+  }
+
   .image {
     width: 30%;
     height: 150%;

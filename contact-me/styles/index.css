@@ -183,19 +183,72 @@
   text-shadow: none;
   border-radius: 20px;
   padding: 10px 10px;
-  
+
+}
+
+#submit:hover {
+  background: black;
+  color: var(--light-yellow);
+  /* border: 1px solid #eee; */
+  border-radius: 20px;
+  /* box-shadow: 5px 5px 5px black; */
+  text-shadow: none;
+  cursor: pointer;
+  transition: 0.5s;
   }
 
-  #submit:hover {
-    background: black;
-    color: var(--light-yellow);
-    /* border: 1px solid #eee; */
-    border-radius: 20px;
-    /* box-shadow: 5px 5px 5px black; */
-    text-shadow: none;
-    cursor: pointer;
-    transition: 0.5s;
-    }
+@media only screen and (max-width: 700px) {
+
+.outer-container {
+  height: 100vh;
+}
+.main {
+  height: 95%;
+  width: 80%;
+}
+.sidenav {
+  height: 100%; 
+  width: 23%; 
+}
+.linksextra {
+  height:10%;
+  padding: 0px 10px;
+}
+
+.links {
+  height: 45%;
+}
+.blurb {
+  width: 80%;
+}
+
+.blurb p {
+  font-size: 16px;
+}
+
+.form {
+  width: 80%;
+}
+
+#name {
+  width: 100%;
+  
+}
+
+#email {
+  width: 100%;
+
+}
+
+#message {
+  width: 100%;
+
+}
+
+
+
+}
+    
 
 
 

@@ -211,7 +211,8 @@
     width: 23%; 
   }
   .linksextra {
-    padding: 30px 10px;
+    height:10%;
+    padding: 0px 10px;
   }
 
 }

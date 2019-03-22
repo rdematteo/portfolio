@@ -8,11 +8,13 @@
 .fab {
   color: white;
 }
+
 :root {
   --light-yellow: #FEFFEF;
   --light-brown: #FFC883;
   --black: #000000;
   --brown: #4C2A05;
+  --h1: #4C2A05;
 }
 
 /* most outer container */
@@ -110,7 +112,7 @@
   font-style: italic;
   display: flex;
   align-items: center;
-  color: #128756;
+  /* color: #128756; */
 }
 
 h1 {
@@ -118,6 +120,7 @@ h1 {
   font-size: 58px;
   font-family: 'Montserrat', sans-serif;
   text-align: center; 
+  color: var(--h1);
 } 
 
 .image {

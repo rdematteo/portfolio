@@ -25,8 +25,6 @@ A simple webpage with a landing page and links to other pages. All pages will ha
 ![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
 
 
-<<<<<<< HEAD
-=======
 1. Screenshots
 1. Target audience
 1. Tech stack (e.g. html, css, deployment platform, etc)
@@ -51,7 +49,6 @@ It was difficult to come up with a design and started to think about a primary c
 **insert photo here**
 
 **Design Process**
->>>>>>> bdb0215f1cf9823a5926c8f2f47e13e6bf8abdcd
 The design of my page compliments my character. Not complex, delivering information in an easy format. 
 I learn by experimenting and making mistakes however I keep the end goal in mind. 
 

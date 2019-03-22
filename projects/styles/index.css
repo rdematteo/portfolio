@@ -17,6 +17,8 @@
   --sci-blue: #AEE9FE;
   --edu-salmon: #FECFCB;
   --brown: #4C2A05;
+  --h1: #4C2A05;
+  
 }
 
 .outer-container {
@@ -111,7 +113,8 @@ h1 {
   margin:0;
   font-size: 58px;
   font-family: 'Montserrat', sans-serif;
-  text-align: center; 
+  text-align: center;
+  color: var(--h1); 
 } 
 
 .text {

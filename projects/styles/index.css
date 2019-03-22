@@ -109,8 +109,9 @@
 
 h1 {
   margin:0;
-  font-size: 72px;
-  text-align: center;
+  font-size: 58px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
 } 
 
 .text {

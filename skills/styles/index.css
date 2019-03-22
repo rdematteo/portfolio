@@ -104,7 +104,9 @@
 
 h1 {
   margin:0;
-  font-size: 72px;
+  font-size: 58px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
 } 
 
 .blurb {
@@ -213,6 +215,7 @@ h1 {
 h1 {
   margin:0;
   font-size: 34px;
+  
 }
 .content {
   height: 100%;

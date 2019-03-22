@@ -1,11 +1,9 @@
 # portfolio
 Coderacademy Portfolio assignment
+When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return.
 
-figma
-evidence for planning
-wire-framing - design in figma
 
-Timeline:
+Timeline:  return
 Design: Tues/Wed
 Hard Code Laptop: Wed/Thurs
 Hard code for tablet/iPhone: Thurs/Friday

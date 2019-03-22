@@ -3,7 +3,7 @@ Coderacademy Portfolio assignment
 When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return.
 
 
-Timeline:  return
+Timeline:<br>
 Design: Tues/Wed
 Hard Code Laptop: Wed/Thurs
 Hard code for tablet/iPhone: Thurs/Friday

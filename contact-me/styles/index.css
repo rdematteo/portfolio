@@ -31,17 +31,6 @@
   align-items: flex-end;
 }
 
-
-/* top div
-.top-container {
-  height: 20%;
-  width: 100%;
-  
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-} */
-
 /* links to linkedin and github */
 .nav-box {
   height: 50px;
@@ -57,7 +46,6 @@
   width: 60px;
 }
 
-
 .inner-container {
   width: 100%;
   height: 100%;
@@ -72,7 +60,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: white;
+  background: red;
+  background: linear-gradient(to right, #FFF7EF, #ffffff);
 }
 
 /* rhs sidebar nav */
@@ -98,7 +87,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-
 }
 
 .linksextra {
@@ -114,7 +102,7 @@
 .blurb {
   width: 50%;
   height: 20%;
-  background: white;
+  /* background: white; */
 
 }
 
@@ -143,33 +131,33 @@
 }
 
 #name {
-  width:80%;
+  width: 100%;
   padding: 10px 10px;
   margin: 10px 0px;
   box-sizing: border-box;
   font-size: 16px;
   border-radius: 5px;
-  border: 5px solid #66CBA2;
+  border: 3px solid var(--brown);
 }
 
 #email {
-  width: 80%;
+  width: 100%;
   padding: 10px 10px;
   margin: 10px 0px;
   box-sizing: border-box;
   font-size: 16px;
   border-radius: 5px;
-  border: 5px solid #66CBA2;
+  border: 3px solid var(--brown);
 }
 
 #message {
-  width: 80%;
+  width: 100%;
   padding: 10px 10px;
   margin:10px 0px;
   box-sizing: border-box;
   font-size: 16px;
   border-radius: 5px;
-  border: 5px solid #66CBA2;
+  border: 3px solid var(--brown);
 }
 
 #submit {
@@ -177,13 +165,14 @@
   color:black;
   /* border-style: outset; */
   /* border: 3px solid #66CBA2; */
-  height: 50px;
-  width: 100px;
+  height: 40px;
+  width: 100%;
   font: bold 15px arial, sans-serif;
   text-shadow: none;
   border-radius: 20px;
   padding: 10px 10px;
   transition: 0.5s;
+  border: 3px solid var(--brown);
 }
 
 #submit:hover {
@@ -242,9 +231,11 @@
 
 #message {
   width: 100%;
-
 }
 
+#submit {
+  width: 100%;
+}
 
     
 }

@@ -22,7 +22,7 @@ A simple webpage with a landing page and links to other pages. All pages will ha
 
 3. Sitemap<br>
 
-![inspiration-photo](https://github.com/rdematteo/portfolio/blob/master/pics/landing_page_smaller_res.jpg)
+![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
 
 
 <<<<<<< HEAD

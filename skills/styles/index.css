@@ -13,9 +13,9 @@
   --light-yellow: #FEFFEF;
   --light-brown: #FFC883;
   --black: #000000;
-  --coder-yellow: #FEFFEF;
-  --sci-blue: #AEE9FE;
-  --edu-salmon: #FECFCB;
+  --coder: #B0957A;
+  --sci: #F4E5E0;
+  --edu: #A36F61;
   --brown: #4C2A05;
   --h1: #4C2A05;
 }
@@ -135,7 +135,7 @@ h1 {
 .coder {
   width: 30%;
   height: 100%;
-  background:var(--coder-yellow);
+  background: var(--coder);
   font-family: 'Montserrat', sans-serif; 
   font-size: 24 px;
   padding: 0px 5px;
@@ -150,7 +150,7 @@ h1 {
 .scientist {
   width: 30%;
   height: 100%;
-  background:var(--sci-blue);
+  background:var(--sci);
   font-family: 'Montserrat', sans-serif; 
   font-size: 24 px;
   padding: 0px 5px;
@@ -163,7 +163,7 @@ h1 {
 .edu {
   width: 30%;
   height: 100%;
-  background: var(--edu-salmon);
+  background: var(--edu);
   font-family: 'Montserrat', sans-serif; 
   font-size: 24 px;
   padding: 0px 5px;

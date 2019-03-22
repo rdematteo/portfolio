@@ -45,10 +45,6 @@
 .sidenav {
   height: 80%; 
   width: 15%; 
-  /* background: url(../../pics/about_me2.jpg);
-  background-position: center;
-  background-size: cover; */
-  /* background-color: #111; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -72,6 +68,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(to right, #FFF7EF, #ffffff);
 }
 
 .linksextra {

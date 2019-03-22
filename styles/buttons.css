@@ -1,9 +1,8 @@
-
 .button-home {
   width: 100px;
   color: var(--light-yellow);
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: italic;
   font-size: 15px;
   text-decoration: none;
@@ -20,18 +19,17 @@
   text-decoration: none;
 }
 
-
 .button-general {
   width: 100px;
   color: var(--light-yellow);
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: italic;
   font-size: 15px;
   text-decoration: none;
   padding: 5px 0px;
   transition: 0.3s;
-  background:var(--brown);
+  background: var(--brown);
   border-radius: 50px;
 }
 

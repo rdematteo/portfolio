@@ -1,4 +1,4 @@
-@import '../../styles/buttons.css';
+@import "../../styles/buttons.css";
 
 * body {
   margin: 0;
@@ -10,14 +10,14 @@
 }
 
 :root {
-  --light-yellow: #FEFFEF;
-  --light-brown: #FFC883;
+  --light-yellow: #feffef;
+  --light-brown: #ffc883;
   --black: #000000;
-  --coder-yellow: #FEFFEF;
-  --sci-blue: #AEE9FE;
-  --edu-salmon: #FECFCB;
-  --brown: #4C2A05;
-  --h1: #4C2A05;
+  --coder-yellow: #feffef;
+  --sci-blue: #aee9fe;
+  --edu-salmon: #fecfcb;
+  --brown: #4c2a05;
+  --h1: #4c2a05;
 }
 
 .outer-container {
@@ -27,7 +27,7 @@
   display: flex;
   background: url(../../pics/landing_page_final.jpg);
   background-position: center;
-  background-size: cover; 
+  background-size: cover;
   justify-content: flex-start;
   align-items: flex-end;
 }
@@ -62,7 +62,7 @@
   align-items: center;
   flex-direction: column;
   /* background: red; */
-  background: linear-gradient(to right, #FFF7EF, #ffffff);
+  background: linear-gradient(to right, #fff7ef, #ffffff);
 }
 
 .main p {
@@ -71,8 +71,8 @@
 
 /* rhs sidebar nav */
 .sidenav {
-  height: 80%; 
-  width: 15%; 
+  height: 80%;
+  width: 15%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -110,7 +110,7 @@
 
 .blurb p {
   font-size: 24px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   text-align: center;
   padding: 10px 0px;
@@ -124,20 +124,20 @@
 }
 
 h1 {
-  margin:0;
+  margin: 0;
   font-size: 58px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center; 
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
   color: var(--h1);
-} 
+}
 
 .name {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 36px;
 }
 
 .email {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 36px;
 }
 
@@ -164,7 +164,7 @@ h1 {
 #message {
   width: 100%;
   padding: 10px 10px;
-  margin:10px 0px;
+  margin: 10px 0px;
   box-sizing: border-box;
   font-size: 16px;
   border-radius: 5px;
@@ -173,7 +173,7 @@ h1 {
 
 #submit {
   background: var(--light-yellow);
-  color:black;
+  color: black;
   /* border-style: outset; */
   /* border: 3px solid #66CBA2; */
   height: 40px;
@@ -196,74 +196,71 @@ h1 {
   cursor: pointer;
 }
 @media only screen and (max-width: 850px) and (min-width: 700px) {
-h1 {
-  margin:0;
-  font-size: 45px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center; 
-  color: var(--h1);
-} 
+  h1 {
+    margin: 0;
+    font-size: 45px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: var(--h1);
+  }
 }
 
 @media only screen and (max-width: 700px) {
+  .outer-container {
+    height: 100vh;
+    width: 100%;
+  }
+  .main {
+    height: 95%;
+    width: 80%;
+    display: flex;
+    justify-content: start;
+  }
+  .sidenav {
+    height: 100%;
+    width: 23%;
+  }
+  .linksextra {
+    height: 10%;
+    padding: 0px 10px;
+  }
 
-.outer-container {
-  height: 100vh;
-  width: 100%;
-}
-.main {
-  height: 95%;
-  width: 80%;
-  display: flex;
-  justify-content: start;
+  .links {
+    height: 270px;
+  }
+  .blurb {
+    width: 80%;
+  }
 
-}
-.sidenav {
-  height: 100%; 
-  width: 23%; 
-}
-.linksextra {
-  height:10%;
-  padding: 0px 10px;
-}
+  .blurb p {
+    font-size: 16px;
+  }
 
-.links {
-  height: 270px;
-}
-.blurb {
-  width: 80%;
-}
+  .form {
+    width: 80%;
+  }
 
-.blurb p {
-  font-size: 16px;
-}
+  #name {
+    width: 100%;
+  }
 
-.form {
-  width: 80%;
-}
+  #email {
+    width: 100%;
+  }
 
-#name {
-  width: 100%; 
-}
+  #message {
+    width: 100%;
+  }
 
-#email {
-  width: 100%;
-}
+  #submit {
+    width: 100%;
+  }
 
-#message {
-  width: 100%;
-}
-
-#submit {
-  width: 100%;
-}
-
-h1 {
-  margin:0;
-  font-size: 32px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center; 
-  color: var(--h1);
-} 
-    
+  h1 {
+    margin: 0;
+    font-size: 32px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: var(--h1);
+  }
 }

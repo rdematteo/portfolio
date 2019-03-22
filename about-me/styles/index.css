@@ -1,4 +1,4 @@
-@import '../../styles/buttons.css';
+@import "../../styles/buttons.css";
 
 * body {
   margin: 0;
@@ -10,11 +10,11 @@
 }
 
 :root {
-  --light-yellow: #FEFFEF;
-  --light-brown: #FFC883;
+  --light-yellow: #feffef;
+  --light-brown: #ffc883;
   --black: #000000;
-  --brown: #4C2A05;
-  --h1: #4C2A05;
+  --brown: #4c2a05;
+  --h1: #4c2a05;
 }
 
 /* most outer container */
@@ -43,8 +43,8 @@
 
 /* rhs sidebar nav */
 .sidenav {
-  height: 80%; 
-  width: 15%; 
+  height: 80%;
+  width: 15%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -64,11 +64,11 @@
 .right-box {
   width: 85%;
   height: 90%;
-  background:white;
+  background: white;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, #FFF7EF, #ffffff);
+  background: linear-gradient(to right, #fff7ef, #ffffff);
 }
 
 .linksextra {
@@ -104,7 +104,7 @@
   width: 80%;
   height: 80%;
   /* background: green; */
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   padding: 0px 0px 0px 10px;
   font-style: italic;
   display: flex;
@@ -113,19 +113,19 @@
 }
 
 h1 {
-  margin:0;
+  margin: 0;
   font-size: 58px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center; 
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
   color: var(--h1);
-} 
+}
 
 .image {
   width: 30%;
   height: 100%;
   background: url(../../pics/rob_pic2.png);
   background-position: right;
-  background-size: contain; 
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
@@ -139,7 +139,7 @@ h1 {
 }
 
 .lower p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
@@ -151,7 +151,7 @@ h1 {
   .title {
     font-size: 58px;
   }
-  
+
   .lower {
     height: 70%;
   }
@@ -165,122 +165,119 @@ h1 {
   }
 
   h1 {
-    margin:0;
+    margin: 0;
     font-size: 34px;
   }
 }
 
-
 @media only screen and (max-width: 900px) and (min-width: 700px) {
-.sidenav {
-  height: 350px; 
-  width: 23%; 
-  align-self: flex-start;
-}
+  .sidenav {
+    height: 350px;
+    width: 23%;
+    align-self: flex-start;
+  }
 
-.links { 
-  height: 270px;
-}
+  .links {
+    height: 270px;
+  }
 
-.linksextra {
-  height:10%;
-  padding: 0px 10px;
-}
+  .linksextra {
+    height: 10%;
+    padding: 0px 10px;
+  }
 
-.right-box {
-  height: 90%;
-}
-.title {
-  font-size: 58px;
-}
+  .right-box {
+    height: 90%;
+  }
+  .title {
+    font-size: 58px;
+  }
 
-.lower {
-  height: 70%;
-}
+  .lower {
+    height: 70%;
+  }
 
-.upper {
-  width: 70%;
-  height: 27%;
-  /* background: black; */
-  display: flex;
-  align-items: center;
+  .upper {
+    width: 70%;
+    height: 27%;
+    /* background: black; */
+    display: flex;
+    align-items: center;
+  }
+  h1 {
+    margin: 0;
+    font-size: 34px;
+  }
 }
-h1 {
-  margin:0;
-  font-size: 34px;
-}
-
-}
-
 
 @media only screen and (max-width: 700px) {
-.sidenav {
-  height: 350px; 
-  width: 23%; 
-  align-self: flex-start;
-}
+  .sidenav {
+    height: 350px;
+    width: 23%;
+    align-self: flex-start;
+  }
 
-.links { 
-  height: 270px;
-}
+  .links {
+    height: 270px;
+  }
 
-.linksextra {
-  height:10%;
-  padding: 0px 10px;
-}
+  .linksextra {
+    height: 10%;
+    padding: 0px 10px;
+  }
 
-.outer-container {
-  height: auto;
-}
+  .outer-container {
+    height: auto;
+  }
 
-.title {
-  font-size: 30px;
-}
+  .title {
+    font-size: 30px;
+  }
 
-.lower {
-  width: 90%;
-  height: 90%;
-}
+  .lower {
+    width: 90%;
+    height: 90%;
+  }
 
-.lower p {
-  font-family: 'Roboto', sans-serif;
-  font-size: 14px;
-}
+  .lower p {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+  }
 
-.image {
-  width: 80px;
-  height: 100px;
-  background: url(../../pics/rob_pic2.png);
-  background-position: right;
-  background-size: cover; 
-  background-repeat: no-repeat;
-}
-.right-box {
-  width: 85%;
-  height: 100%;
-  display: flex;
-}
+  .image {
+    width: 80px;
+    height: 100px;
+    background: url(../../pics/rob_pic2.png);
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .right-box {
+    width: 85%;
+    height: 100%;
+    display: flex;
+  }
 
-.upper {
-  width: 90%;
-  height: 16%;
-}
+  .upper {
+    width: 90%;
+    height: 16%;
+  }
 
-.sidenav {
-  height: 100%; 
-  width: 23%; 
-}
-.linksextra {
-  height:10%;
-  padding: 0px 10px;
-}
+  .sidenav {
+    height: 100%;
+    width: 23%;
+  }
+  .linksextra {
+    height: 10%;
+    padding: 0px 10px;
+  }
 
-.links {
-  height: 270px;
-}
+  .links {
+    height: 270px;
+  }
 
-h1 {
-  margin:0;
-  font-size: 28px;
-}
+  h1 {
+    margin: 0;
+    font-size: 28px;
+  }
 }

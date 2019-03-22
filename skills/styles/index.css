@@ -1,4 +1,4 @@
-@import '../../styles/buttons.css';
+@import "../../styles/buttons.css";
 
 * body {
   margin: 0;
@@ -10,23 +10,22 @@
 }
 
 :root {
-  --light-yellow: #FEFFEF;
-  --light-brown: #FFC883;
+  --light-yellow: #feffef;
+  --light-brown: #ffc883;
   --black: #000000;
-  --coder: #B0957A;
-  --sci: #F4E5E0;
-  --edu: #A36F61;
-  --brown: #4C2A05;
-  --h1: #4C2A05;
+  --coder: #b0957a;
+  --sci: #f4e5e0;
+  --edu: #a36f61;
+  --brown: #4c2a05;
+  --h1: #4c2a05;
 }
-
 
 .outer-container {
   width: 100vw;
   height: 100vh;
   background: url(../../pics/landing_page_final.jpg);
   background-position: center;
-  background-size: cover; 
+  background-size: cover;
   display: flex;
   justify-content: flex-start;
   align-items: flex-end;
@@ -39,13 +38,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, #FFF7EF, #ffffff);
+  background: linear-gradient(to right, #fff7ef, #ffffff);
 }
 
 /* rhs sidebar nav */
 .sidenav {
-  height: 80%; 
-  width: 15%; 
+  height: 80%;
+  width: 15%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -98,25 +97,25 @@
   width: 80%;
   height: 15%;
   /* background: red; */
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   padding: 0px 0px 0px 10px;
   font-style: italic;
   color: #128756;
 }
 
 h1 {
-  margin:0;
+  margin: 0;
   font-size: 58px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center; 
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
   color: var(--h1);
-} 
+}
 
 .blurb {
   width: 80%;
   height: 20%;
   /* background: purple; */
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   padding: 0px 0px;
   border-bottom: 2px solid gray;
@@ -137,116 +136,114 @@ h1 {
   width: 30%;
   height: 100%;
   background: var(--coder);
-  font-family: 'Montserrat', sans-serif; 
+  font-family: "Montserrat", sans-serif;
   font-size: 24 px;
   padding: 0px 5px;
   font-style: italic;
 }
 
 .coder p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
 .scientist {
   width: 30%;
   height: 100%;
-  background:var(--sci);
-  font-family: 'Montserrat', sans-serif; 
+  background: var(--sci);
+  font-family: "Montserrat", sans-serif;
   font-size: 24 px;
   padding: 0px 5px;
   font-style: italic;
 }
 .scientist p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 .edu {
   width: 30%;
   height: 100%;
   background: var(--edu);
-  font-family: 'Montserrat', sans-serif; 
+  font-family: "Montserrat", sans-serif;
   font-size: 24 px;
   padding: 0px 5px;
   font-style: italic;
 }
 .edu p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
 .lower p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
 
 @media only screen and (max-width: 800px) {
-.skill {
-  flex-direction: column;
-  height: 50%;
-}
+  .skill {
+    flex-direction: column;
+    height: 50%;
+  }
 
-.coder {
-  width: 100%;
-  font-size: 16px;
-  font-weight: bold;
-}
+  .coder {
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+  }
 
-.coder p {
-  font-size: 14px;
-  font-weight: normal;
-}
+  .coder p {
+    font-size: 14px;
+    font-weight: normal;
+  }
 
-.scientist {
-  width: 100%;
-}
-.edu {
-  width: 100%;
-}
+  .scientist {
+    width: 100%;
+  }
+  .edu {
+    width: 100%;
+  }
 
-.blurb {
-  height: 100%;
-  font-size: 14px;
-}
+  .blurb {
+    height: 100%;
+    font-size: 14px;
+  }
 
-.title {
-  height: 8%;
-}
+  .title {
+    height: 8%;
+  }
 
-h1 {
-  margin:0;
-  font-size: 34px;
-}
-.content {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
+  h1 {
+    margin: 0;
+    font-size: 34px;
+  }
+  .content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
 
-.right-box {
-  height: 93%;
-  flex-direction: column;
-}
+  .right-box {
+    height: 93%;
+    flex-direction: column;
+  }
 
-.sidenav {
-  height: 350px; 
-  width: 23%; 
-}
+  .sidenav {
+    height: 350px;
+    width: 23%;
+  }
 
-.links {
-  height: 270px;
-}
+  .links {
+    height: 270px;
+  }
 
-.linksextra {
-  height:10%;
-  padding: 0px 10px;
-}
+  .linksextra {
+    height: 10%;
+    padding: 0px 10px;
+  }
 
-.outer-container {
-  height: auto;
-  /* flex-direction: row-reverse; */
-  align-items: flex-start
+  .outer-container {
+    height: auto;
+    /* flex-direction: row-reverse; */
+    align-items: flex-start;
+  }
 }
-
-}
-

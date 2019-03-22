@@ -13,6 +13,7 @@ All other elements: Friday/Sat/Sun
 
 It was difficult to come up with a design and started to think about a primary colour of blue and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.stevenmengin.com/.  This inspired me to use a photgraph that I have taken. The photo i used was taken near my home. It is located at a horse agistment property in Bangholme, Victoria. My partner owns and rides horses as a hobby and I used to help her feed them in the early morning. On a misty morning (Feb 6, 2013), the sun was rising behind a shed, and thought this would be a nice photo. I have used this photo as an inpiration in my design. I enjoy taking photos. 
 
+
 The design of my page compliments my character. Not complex, delivering information in an easy format. 
 I learn by experimenting and making mistakes however I keep the end goal in mind. 
 

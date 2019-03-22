@@ -17,6 +17,7 @@
   --sci-blue: #AEE9FE;
   --edu-salmon: #FECFCB;
   --brown: #4C2A05;
+  --h1: #4C2A05;
 }
 
 .outer-container {
@@ -64,6 +65,10 @@
   background: linear-gradient(to right, #FFF7EF, #ffffff);
 }
 
+.main p {
+  margin: 0;
+}
+
 /* rhs sidebar nav */
 .sidenav {
   height: 80%; 
@@ -101,15 +106,19 @@
 }
 .blurb {
   width: 50%;
-  height: 20%;
+  height: 30%;
   /* background: white; */
-
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
 }
 
 .blurb p {
   font-size: 24px;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
+  text-align: center;
+  padding: 10px 0px;
 }
 
 /* form details */
@@ -117,8 +126,15 @@
   width: 50%;
   height: 50%;
   /* background: yellow; */
-  
 }
+
+h1 {
+  margin:0;
+  font-size: 58px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
+  color: var(--h1);
+} 
 
 .name {
   font-family: 'Merriweather', serif;
@@ -183,7 +199,16 @@
   /* box-shadow: 5px 5px 5px black; */
   text-shadow: none;
   cursor: pointer;
-  }
+}
+@media only screen and (max-width: 850px) and (min-width: 700px) {
+h1 {
+  margin:0;
+  font-size: 45px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
+  color: var(--h1);
+} 
+}
 
 @media only screen and (max-width: 700px) {
 
@@ -194,6 +219,9 @@
 .main {
   height: 95%;
   width: 80%;
+  display: flex;
+  justify-content: start;
+
 }
 .sidenav {
   height: 100%; 
@@ -220,13 +248,11 @@
 }
 
 #name {
-  width: 100%;
-  
+  width: 100%; 
 }
 
 #email {
   width: 100%;
-
 }
 
 #message {
@@ -237,5 +263,12 @@
   width: 100%;
 }
 
+h1 {
+  margin:0;
+  font-size: 32px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
+  color: var(--h1);
+} 
     
 }

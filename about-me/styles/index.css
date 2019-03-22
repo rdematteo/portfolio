@@ -61,16 +61,6 @@
   justify-content: space-evenly;
 }
 
-.right-box {
-  width: 85%;
-  height: 90%;
-  background: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(to right, #fff7ef, #ffffff);
-}
-
 .linksextra {
   /* background: blue; */
   width: 40px;
@@ -80,6 +70,16 @@
   padding: 10px 10px;
   align-items: flex-end;
   /* background: red; */
+}
+
+.right-box {
+  width: 85%;
+  height: 90%;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #fff7ef, #ffffff);
 }
 
 .content {
@@ -93,7 +93,7 @@
 }
 /* upper contains title and image */
 .upper {
-  width: 70%;
+  width: 90%;
   height: 30%;
   /* background: black; */
   display: flex;
@@ -130,7 +130,7 @@ h1 {
 }
 
 .lower {
-  width: 70%;
+  width: 90%;
   height: 50%;
   /* background:purple; */
   text-align: justify;
@@ -140,8 +140,109 @@ h1 {
 
 .lower p {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 12px;
 }
+
+.photos {
+  width: 800px;
+  height: 200px;
+  /* background: red; */
+  display: flex;
+  /* flex-direction: column; */
+}
+
+.photo1 {
+  width: 200px;
+  height: 300px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.picture1 {
+  background: url(../../../../working-documents/Pics/Photos/DSC01021.JPG);
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pic-container1 {
+  text-align: center;
+  height: 10px;
+  width: 200px;
+}
+
+.photo2 {
+  width: 200px;
+  height: 300px;
+  background: white;
+}
+
+.picture2 {
+  background: url(../../../../working-documents/Pics/Photos/20090520\ fiji\ Treasure\ Island\ 095.jpg);
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pic-container2 {
+  text-align: center;
+  height: 10px;
+  width: 200px;
+}
+
+.photo3 {
+  width: 200px;
+  height: 300px;
+  background: white;
+}
+
+.picture3 {
+  background: url(../../../../working-documents/Pics/Photos/DSC02561.JPG);
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pic-container3 {
+  text-align: center;
+  height: 10px;
+  width: 200px;
+}
+
+
+.photo4 {
+  width: 200px;
+  height: 300px;
+  /* background: black; */
+}
+
+.picture4 {
+  background: url(../../../../working-documents/Pics/Photos/DSC05715.JPG);
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pic-container4 {
+  text-align: center;
+  height: 10px;
+  width: 200px;
+}
+
+
 
 @media only screen and (max-width: 1200px) and (min-width: 900px) {
   .right-box {
@@ -157,7 +258,7 @@ h1 {
   }
 
   .upper {
-    width: 70%;
+    width: 90%;
     height: 27%;
     /* background: black; */
     display: flex;

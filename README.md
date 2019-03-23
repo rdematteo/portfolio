@@ -114,7 +114,7 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_panel_initial.png)
 
-<p>I then used a color wheel calculator https://www.sessions.edu/color-calculator/ to find a tetrdic of color for my main brown color (#4c2a05) 
+<p>I then used a color wheel calculator https://www.sessions.edu/color-calculator/ to find a tetradic of color for my main brown color (#4c2a05) 
 
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_wheel.png)
 
@@ -124,7 +124,7 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 
 <p>and the final result!! Very happy </p>
 
-![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/sskills_colocr_final.png)
+![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_final.png)
 
 
 

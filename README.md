@@ -108,9 +108,11 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
 
-![git hub](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+![git hub](https://github.com/rdematteo/portfolio/blob/master/pics-README/github_creation.png)
 
-![git hub usage](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+![git hub usage](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_usage.png)
+
+![git hub log](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_log.png)
 
 
 

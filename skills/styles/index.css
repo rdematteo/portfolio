@@ -41,7 +41,7 @@ h1 {
 
 .right-box {
   width: 85%;
-  height: 80%;
+  height: 90%;
   /* background:white; */
   display: flex;
   justify-content: center;
@@ -94,48 +94,78 @@ h1 {
 .coder {
   width: 30%;
   height: 100%;
-  background: var(--coder);
+  background: #ecebf5;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  padding: 0px 5px;
+  /* padding: 0px px; */
   font-style: italic;
+  display: flex;
+  flex-direction: column;
 }
 
-.coder p {
+.coder-heading {
+  width: 100%;
+  background: #09054c;
+  height: auto;
+  
+}
+
+.education-heading {
+  width: 100%;
+  background: #4c0548;
+  height: auto;
+}
+
+.scientist-heading {
+  width: 100%;
+  background: #484c05;
+  height: auto;
+}
+
+h2 {
+  margin: 5px;
+  text-align: center;
+  color: white;
+  padding: 10px 0px;
+}
+p {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
+  margin: 5px 0px 0px 10px;
+  font-weight: bold;
+}
+
+ul {
+  margin: 0px 20px 0px 0px;
+}
+
+li {
+  margin: 6px;
+  font-family: "Roboto", sans-serif;
 }
 
 .scientist {
   width: 30%;
   height: 100%;
-  background: var(--sci);
+  background: #f7fadc;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  padding: 0px 5px;
+  /* padding: 0px 5px; */
   font-style: italic;
+  display: flex;
+  flex-direction: column;
 }
-.scientist p {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-}
+
 .edu {
   width: 30%;
   height: 100%;
-  background: var(--edu);
+  background: #f7d7f4;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  padding: 0px 5px;
+  /* padding: 0px 5px; */
   font-style: italic;
-}
-.edu p {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-}
-
-.lower p {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 /* rhs sidebar nav */

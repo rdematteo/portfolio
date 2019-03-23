@@ -84,7 +84,7 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 
 <p>Taken from mycolor.space</p>
 
-![mycolor space](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
+![mycolor space](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_selection.png)
 
 
 *Fonts*

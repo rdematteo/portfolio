@@ -51,6 +51,7 @@ https://github.com/rdematteo/portfolio
 <ol>
   <li>Design process</li>
 It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.<br>
+
 ![inspiration-site](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
 
 

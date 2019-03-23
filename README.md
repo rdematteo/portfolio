@@ -202,19 +202,15 @@ Each page has its own style folder.</p>
   <li>Needed to add h1,h2 etc to my page to make it searchable</li>
   <li>Inserted a favicon.</li>
 </ul>
-
-
-
-
-
-
+<p></p>
 
 
 **Timeline:**<br>
-**Design:** Tues/Wed<br>
-**Hard Code Laptop:** Wed/Thurs<br>
-**Hard code for tablet/iPhone:** Thurs/Friday<br>
-**All other elements:** Friday/Sat/Sun<br>
+<ul>**Design:** Tues/Wed
+  <li>**Hard Code Laptop:** Wed/Thurs</li>
+  <li>**Hard code for tablet/iPhone:** Thurs/Friday</li>
+  <li>**All other elements:** Friday/Sat/Sun</li>
+</ul>
 
 
 

@@ -107,7 +107,6 @@ h1 {
   width: 100%;
   background: #09054c;
   height: auto;
-  
 }
 
 .education-heading {
@@ -208,11 +207,6 @@ li {
   padding: 10px 10px;
   align-items: top;
 }
-
-
-
-
-
 
 @media only screen and (max-width: 800px) {
   .skill {

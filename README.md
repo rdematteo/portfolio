@@ -99,6 +99,10 @@ I structured the content in with 2 row. Top row has two columns - one with title
 
 ![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
 
+
+
+
+
 *Skills page*
 <p>Same design with pictures across top and left-hand-side from about me page.
 I have three main industry sectors where I have gained/gaining my skills 1) Coder Academy 2) research industry 3) University sector. I have decided to make three columns; one for each skill base and siatisfy criteria for study and work history</p>
@@ -150,8 +154,15 @@ About me
 Again position of elements was difficult. Initially position nav bar on RHS in its own div element but then found it difficult to align all other div elements. I needed to include the nav div in the main container.
 Learned that the a tag is overridden by class. need to enclose a and class in the same tag. The I could remove text decoration.
 Coloring the position of the boxes helpd immensley in term of positioning.
-Now the basic format of page is constructed the other pahes should be easier to construct. 
+Now the basic format of page is constructed the other parts should be easier to construct. 
 **Include photo**
+
+![html about me page](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_log.png)
+
+
+
+
+
 
 Skills page
 Getting a little faster to produce the webpage. Starting to get a good understanding of flexbox and its attributes. Using the different background colors for my different skill bases is going to be a challenge. I will need to experiemnts with different colors to achieve the best result. Here is an example 

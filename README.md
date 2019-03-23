@@ -94,28 +94,29 @@ I structured the content in with 2 row. Top row has two columns - one with title
 
 ![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
 
-*Skills page.*
+*Skills page*
 <p>Same design with pictures across top and left-hand-side from about me page.
-I hvae three main industry sectors where I have gained/gaining my skills 1)Coder Academy 2)research industry 3) University sector. I have decided to make three columns; one for each skill base and siatisfy criteria for study and work history</p>
+I have three main industry sectors where I have gained/gaining my skills 1) Coder Academy 2) research industry 3) University sector. I have decided to make three columns; one for each skill base and siatisfy criteria for study and work history</p>
 <ul>There will be three rows.
   <li>First row; title</li>
-  <li>Second Row; Descritpion about different idustries</li>
+  <li>Second Row; Description about different industries</li>
   <li>Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.</li>
 </ul>
 
-![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
 
-
-
-
-
-
-
-
-
-
-Creation of github pages
+*Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
+
+![git hub](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+
+![git hub usage](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+
+
+
+
+
+
 
 Reduce an image's file size
 In the Preview app on your Mac, open the file you want to change.

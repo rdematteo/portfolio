@@ -150,8 +150,6 @@ link https://github.com/rdematteo/portfolio/tree/master
 
 
 
-
-
 **<p>Hard Coding pages</p>**
 *Landing page.*
 <p>Found it difficult to position elements on the page.</p> 
@@ -178,32 +176,32 @@ link https://github.com/rdematteo/portfolio/tree/master
 ![skills page colors](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_trial.png)
 
 *Contacts page*
-<p>Created but not happy with page. Has no simple design to it. Unfortuneatley I did not take a screen shot of it. I search the web and found a contact me page I liked and will try to re-create some aspects of it's style.</p>
+<p>Created but not happy with page. Has no simple design to it. Unfortuneatley I did not take a screen shot of it. I searched the web and found a contact me page I liked and will try to re-create some aspects of it's style.</p>
 
 ![contact me idea](https://github.com/rdematteo/portfolio/blob/master/pics-README/contact_me_idea.png)
 
+*Style Pages*
+</p>I have created a separate buttons style folder and used @ and color: var() function to use hex colours. 
+Each page has its own style folder.</p>
 
+*Netlify*
+<p>Connected my github page to neflify https://www.netlify.com/.  Very easy to connect to my repository/portfolio.</p>
+<p>hanged the name to https://rdematteo.netlify.com/</p>
 
-Styles
-I have created a separate buttons style folder and used @ and color: var() function to use hex colours. 
-Each page has its own style folder. 
+*Media queries*
+<p>Making changes to design for tablet and mobile device</p>
+<p>Decided to use two breaking points</p>
+<ol>
+  <li>max-width: 700px</li>
+  <li>max-width: 1200px and min-width: 700px. Will sue this for remainder of project.</p>
+</ol>
 
-Netlify
-Connected my github page to neflify https://www.netlify.com/.  Very easy to connect to my repository/portfolio.
-Changed the name to https://rdematteo.netlify.com/
-
-
-Media changes
-Making changes to design for tablet and mobile device.
-Decided to use two breaking points
-1) max-width: 700px
-2) max-width: 1200px and min-width: 700px. Will sue this for remainder of project.
-
-Learned to change vh to auto!!
-
-Needed to add h1,h2 etc to my page to make it searchable
-
-Inserted a favicon.
+*Miscellaneous*
+<ul>
+  <li>Learned to change vh to auto!!</li>
+  <li>Needed to add h1,h2 etc to my page to make it searchable</li>
+  <li>Inserted a favicon.</li>
+</ul>
 
 
 

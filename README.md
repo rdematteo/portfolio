@@ -107,7 +107,17 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
   <li>Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.</li>
 </ul>
 
-![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_skills.png)
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_skills.png)
+
+*Project Page*
+<p>Design of projects page below</p>
+
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_projects.png)
+
+*Contact page*
+<p>Design of Contact me page below</p>
+
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_contact_me.png)
 
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
@@ -136,6 +146,10 @@ link https://github.com/rdematteo/portfolio/tree/master
   <li>Choose Tools > Adjust Size, then select “Resample image.”</li>
   <li>Enter a smaller value in the Resolution field. The new size is shown at the bottom. Custom size: 1440x900px. reduced image siaze from 1.6MG to 301kb</li>
 </ol>
+
+
+
+
 
 
 **Hard Coding pages**

@@ -204,7 +204,7 @@ Each page has its own style folder.</p>
   <li>I didn't create a personal logo but created a favicon. Inserted a favicon.</li>
 </ul>
 
-![favicon](https://github.com/rdematteo/portfolio/blob/master/logo.ico)
+![favicon](https://github.com/rdematteo/portfolio/blob/master/pics-README/favicon.png)
 
 
 

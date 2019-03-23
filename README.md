@@ -58,6 +58,7 @@ https://github.com/rdematteo/portfolio
 
 ![trello 2](https://github.com/rdematteo/portfolio/blob/master/pics-README/trello_2.png)
 
+*Process*
 <p>It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.</p>
 
 ![inspiration-site](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
@@ -87,11 +88,14 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 ![fonts](https://github.com/rdematteo/portfolio/blob/master/pics-README/font_pairings.png)
 
 
+*About me page.*
+<p>I had a few options with design of page. Either a full picture or crop the picture and paste across top and down one side. Nav Bar in side pic. I decided on the later design. 
+I structured the content in with 2 row. Top row has two columns - one with title of page and the other with my photo. The bottom row has same width as top row and contains text. This is illustrated below.</p>
+
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/font_pairings.png)
 
 
-About me page.
-I had a few options with design of page. Either a full picture or crop the picture and paste across top and down one side. Nav Bar in side pic. I decided on the later design. 
-I structured the content in with 2 row. Top row has two columns - one with title of page and the other with my photo. The bottom row has same width as top row and contains text.
+
 
 Skills page.
 Same design with pictures across top and left-hand-side from about me page.

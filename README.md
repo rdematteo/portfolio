@@ -251,9 +251,23 @@ Each page has its own style folder.</p>
 <p>Google celebrates 30 years of the WWW (Image form Google</p>
 
 <li>Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)</li>
-    
+  <p>The internet is communication between two computers, the client and the server. The client is a device that can connect to the internet (e.g. computer/phone) and uses web browsers (e.g. Firefox/Chrome). Servers are computers that store webpages, sites or apps. The client and servers are connect via Internet Service Providers (ISP) and supply the Internet Protocol (IP) address to clients and servers. The IP address is a number assigned to individual client and servers.</p>
+  <p>When a client sends a web address, via the browser, the browser sends this information to the Domain Name Server (DNS) to find the IP address of the server.  The browser then sends an HTTP request message to the server asking to send a copy of the website to the client. If the server approves the client can then view the website. All data between the client and server is send using TCP/IP.</p>
+ 
+<li>Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)</li>
+<p>Internet technology is the ability of the Internet to transmit information and data through different servers and systems. One of these is Cascading Style Sheets (CSS).  It is the coding language that gives a website its look and layout. Along with HTML, CSS is fundamental to web design. Without it, websites would still be plain text on white backgrounds.</p>
+<p>The initial CSS proposal was presented at the Web conference in Chicago in November 1994 by Hakon Wium Lie and Bert Bos, then a second conference presentation in 1995. CSS level 1 emerged as a W3C Recommendation in December 1996. The first commercial browser to support CSS was Microsoft's Internet Explorer 3, in 1996. The next browser to support CSS was Netscape Navigator (v4.0). The third browser that used CSS was Opera in 1998. CSS level 2 was published as a recommendation in May 1998, CSS 3 drafts were published in June 1999, while CSS level 4 modules were released from September 2017.</p>
+<p>CSS was not widely supported until 2000 with the release of Internet Explorer 5. Since that time, CSS have become a standard part of any site and used almost worldwide.</p>
+References (all accessed March 22, 2019)</p>
+    <ul>
+    <li>https://www.bigcommerce.com.au/ecommerce-answers/what-css-and-why-it-important/</li>
+    <li>https://www.w3.org/Style/CSS20/history.html</li>
+    <li>https://en.wikipedia.org/wiki/Cascading_Style_Sheets</li>
+    </ul>
 
+![google](https://github.com/rdematteo/portfolio/blob/master/pics-README/CSS3_taxonomy.png)
+<p>CSS taxonomy, From https://en.wikipedia.org/wiki/Cascading_Style_Sheets</p>
 
-Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+</ul>
 
 

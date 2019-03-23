@@ -10,12 +10,15 @@ https://rdematteo.netlify.com/
 https://github.com/rdematteo/portfolio
 
 **Description of your portfolio website, including,**
-1. Purpose<br>
-The portfolio was designed to show potential employers<br>
- * Information about me
- * My skills
- * My projects
- * How to contact me
+<ol>
+  <li>Purpose</li>
+  The portfolio was designed to show potential employers
+  <ul>Information about me
+    <li>My skills</li>
+    <li>My projects</li>
+    <li>How to contact me</li>
+  </ul>
+  </ol>
  
 2. Functionality / features<br>
 A simple webpage with a landing page and links to other pages. All pages will have links to all the other pages. See sitemap below

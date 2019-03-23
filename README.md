@@ -50,8 +50,8 @@ https://github.com/rdematteo/portfolio
 **<p>Design documentation including</p>**
 <ol>
   <li>Design process</li>
-It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.
-
+It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.<br>
+![inspiration-site](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
 
 
   This inspired me to use a photgraph that I have taken. The photo i used was taken near my home. It is located at a horse agistment property in Bangholme, Victoria. My partner owns and rides horses as a hobby and I used to help her feed them in the early morning. On a misty morning (Feb 6, 2013), the sun was rising behind a shed, and thought this would be a nice photo. I have used this photo as an inpiration in my design. I enjoy taking photos.<br>

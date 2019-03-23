@@ -1,11 +1,11 @@
 # Portfolio
-Coderacademy Portfolio assignment
+Coderacademy Portfolio assignment - Robert De Matteo (CAM011945)
 
 **A link (URL) to your published portfolio website**
-<p>I have utilised netlify to publish on the web. The address is below</p>
+I have utilised netlify to publish on the web. The address is below<br>
 https://rdematteo.netlify.com/
 
-**A link to your GitHub repository**<br>
+**A link to your GitHub repository**
 https://github.com/rdematteo/portfolio
 
 **Description of your portfolio website, including,**
@@ -47,7 +47,7 @@ https://github.com/rdematteo/portfolio
     </ul>
 </ol>
 
-**<p>Design documentation including</p>**
+**<p>Design documentation including</**
 
 
 

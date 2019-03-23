@@ -138,6 +138,7 @@ link https://github.com/rdematteo/portfolio/tree/master
   <li>All separate webpages will be in contained in separate folders.</li>
   <li>I will create a buttons css file and import into each index.css file.</li>
   <li>I will use var for commonly used colors".</li>
+</ul>
 
 *Reduce an image's file size*
 <p>These are the instruction to resize image so page does not take a long time to load.</p>
@@ -206,10 +207,11 @@ Each page has its own style folder.</p>
 
 
 **Timeline:**<br>
-<ul>**Design:** Tues/Wed
-  <li>**Hard Code Laptop:** Wed/Thurs</li>
-  <li>**Hard code for tablet/iPhone:** Thurs/Friday</li>
-  <li>**All other elements:** Friday/Sat/Sun</li>
+<ul>
+  <li>Design: Tues/Wed</li>
+  <li>Hard Code Laptop: Wed/Thurs</li>
+  <li>Hard code for tablet/iPhone: Thurs/Friday</li>
+  <li>All other elements: Friday/Sat/Sun</li>
 </ul>
 
 

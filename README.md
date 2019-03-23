@@ -62,15 +62,17 @@ https://github.com/rdematteo/portfolio
 **<p>Figma</p>**
 <p>I have used figma to create my webpage. It includes the inspiraation, wireframes (laptop and mobile), color palettes, fonts, 
 
+![inspiration-photo](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_all.png)
+
+
 The design of my page compliments my character. Not complex, delivering information in an easy format. 
 I learn by experimenting and making mistakes however I keep the end goal in mind. 
 
-Sitemap
-See attached picture
-
-
 Colors
 I have picked 4 colours from the photo and then went to https://mycolor.space to create colour palettes. Refer to figma https://www.figma.com/file/0qotQLAdC2JRfx9pZwfWniMX/Portfolio?node-id=0%3A1 or sceen shot below 
+
+
+
 
 
 

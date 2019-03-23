@@ -54,9 +54,9 @@ https://github.com/rdematteo/portfolio
 *Trello*
 <p>I used trello to track what (i)to do (ii)doing and (iii)completed.</p>
 
-![trello 1](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
+![trello 1](https://github.com/rdematteo/portfolio/blob/master/pics-README/trello_1.png)
 
-![trello 2](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
+![trello 2](https://github.com/rdematteo/portfolio/blob/master/pics-README/trello_2.png)
 
 <p>It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.</p>
 

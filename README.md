@@ -157,7 +157,7 @@ Coloring the position of the boxes helpd immensley in term of positioning.
 Now the basic format of page is constructed the other parts should be easier to construct. 
 **Include photo**
 
-![html about me page](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_log.png)
+![html about me page](https://github.com/rdematteo/portfolio/blob/master/pics-README/html_aboutme.png)
 
 
 

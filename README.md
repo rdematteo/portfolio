@@ -234,21 +234,24 @@ Each page has its own style folder.</p>
 **Short Answer Q&A - Include short answers to the following questions**
 <ol>
   <li>Describe key events in the development of the internet from the 1980s to today (max. 150 words)</li>
-<p>During the 1980s the PC and Macintosh were developed. The SMTP (Simple Mail Transfer Protocol) was published and a three-tiered structure involving ARPANET, a TELENET-based system, and an e-mail only service called PhoneNet is created.  The Internet Protocol Suite (TCP/IP) was standardized and the Domain Name system (DNS) is created.  Commercial Internet service providers (ISPs) emerged in the late 1980s and early 1990s.  On March 12 1989, Sir Tim Berners-Lee wrote a proposal then in 1991 introduced the HyperText Transfer Protocol (HTTP), the HyperText Markup Language (HTML), the first Web browser, the first HTTP server software, the first web server, and the first Web pages.  In April 1995, all commercialization restrictions on the Internet are lifted. Java in introduced in 1995. Google is founded by Sergey Brin and Larry Page on September 7, 1998.  In 2004 Facebook goes online.  In 2006 AOL changes its business model.
-References (all accessed March 22, 2019)</p>
-<ul>
-<li>https://www.computerhistory.org/internethistory/1990s/</li>
-<li>https://www.nap.edu/read/6323/chapter/9#180</li>
-<li>http://www.datesandevents.org/events-timelines/11-internet-history-timeline.htm</li>
-<li>https://online.jefferson.edu/communications/internet-history-timeline/</li>
-<li>https://web30.web.cern.ch/</li>
-</ul>
+    <p>During the 1980s the PC and Macintosh were developed. The SMTP (Simple Mail Transfer Protocol) was published and a three-tiered structure involving ARPANET, a TELENET-based system, and an e-mail only service called PhoneNet is created.  The Internet Protocol Suite (TCP/IP) was standardized and the Domain Name system (DNS) is created.  Commercial Internet service providers (ISPs) emerged in the late 1980s and early 1990s.  On March 12 1989, Sir Tim Berners-Lee wrote a proposal then in 1991 introduced the HyperText Transfer Protocol (HTTP), the HyperText Markup Language (HTML), the first Web browser, the first HTTP server software, the first web server, and the first Web pages.  In April 1995, all commercialization restrictions on the Internet are lifted. Java in introduced in 1995. Google is founded by Sergey Brin and Larry Page on September 7, 1998.  In 2004 Facebook goes online.  In 2006 AOL changes its business model.
+    References (all accessed March 22, 2019)</p>
+    <ul>
+    <li>https://www.computerhistory.org/internethistory/1990s/</li>
+    <li>https://www.nap.edu/read/6323/chapter/9#180</li>
+    <li>http://www.datesandevents.org/events-timelines/11-internet-history-timeline.htm</li>
+    <li>https://online.jefferson.edu/communications/internet-history-timeline/</li>
+    <li>https://web30.web.cern.ch/</li>
+    <li>https://www.theverge.com/2019/3/12/18261401/google-doodle-www-web-anniversary-world-wide-tim-berners-lee</li>
+    <li>https://en.wikipedia.org/wiki/Internet</li>
+    <li>https://www.livescience.com/20727-internet-history.html</li>
+  </ul>
+  
+![google](https://github.com/rdematteo/portfolio/blob/master/pics-README/google.png)
+<p>Google celebrates 30 years of the WWW (Image form Google</p>
 
-
-
-
-
-Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+<li>Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)</li>
+    
 
 
 Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)

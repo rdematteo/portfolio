@@ -27,6 +27,27 @@ h1 {
   text-align: center;
   color: var(--h1);
 }
+h2 {
+  margin: 5px;
+  text-align: center;
+  color: white;
+  padding: 10px 0px;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  margin: 5px 0px 0px 10px;
+  font-weight: bold;
+}
+
+ul {
+  margin: 0px 20px 0px 0px;
+}
+
+li {
+  margin: 6px;
+  font-family: "Roboto", sans-serif;
+}
 
 .outer-container {
   width: 100vw;
@@ -119,28 +140,6 @@ h1 {
   width: 100%;
   background: #484c05;
   height: auto;
-}
-
-h2 {
-  margin: 5px;
-  text-align: center;
-  color: white;
-  padding: 10px 0px;
-}
-p {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  margin: 5px 0px 0px 10px;
-  font-weight: bold;
-}
-
-ul {
-  margin: 0px 20px 0px 0px;
-}
-
-li {
-  margin: 6px;
-  font-family: "Roboto", sans-serif;
 }
 
 .scientist {

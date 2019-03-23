@@ -206,12 +206,20 @@ Each page has its own style folder.</p>
 
 ![favicon](https://github.com/rdematteo/portfolio/blob/master/pics-README/favicon.png)
 
-
-
 <p></p>
 
+*Usability considerations*
+<p>I have tried to space items as much as possible and make text as big as possible."
+<p>I have utilised media querries to make the web page responsive to be displayed approriately on laptop, tablet and mobile. For mobile I desinged for the smallest iPhone on the inspect page: iPhone 5/SE.</p>
+<p>Decided to use two breaking points</p>
+<ol>
+  <li>max-width: 700px</li>
+  <li>max-width: 1200px and min-width: 700px. Will sue this for remainder of project.</p>
+</ol>
+<p></p>
 
-**Timeline:**<br>
+**Details of planning process including,**
+*Timeline:*
 <ul>
   <li>Design: Tues/Wed</li>
   <li>Hard Code Laptop: Wed/Thurs</li>
@@ -219,5 +227,30 @@ Each page has its own style folder.</p>
   <li>All other elements: Friday/Sat/Sun</li>
 </ul>
 
+*Screenshots of Trello board(s)*
+<p>See above</p>
+
+
+**Short Answer Q&A - Include short answers to the following questions**
+<ol>
+  <li>Describe key events in the development of the internet from the 1980s to today (max. 150 words)</li>
+<p>During the 1980s the PC and Macintosh were developed. The SMTP (Simple Mail Transfer Protocol) was published and a three-tiered structure involving ARPANET, a TELENET-based system, and an e-mail only service called PhoneNet is created.  The Internet Protocol Suite (TCP/IP) was standardized and the Domain Name system (DNS) is created.  Commercial Internet service providers (ISPs) emerged in the late 1980s and early 1990s.  On March 12 1989, Sir Tim Berners-Lee wrote a proposal then in 1991 introduced the HyperText Transfer Protocol (HTTP), the HyperText Markup Language (HTML), the first Web browser, the first HTTP server software, the first web server, and the first Web pages.  In April 1995, all commercialization restrictions on the Internet are lifted. Java in introduced in 1995. Google is founded by Sergey Brin and Larry Page on September 7, 1998.  In 2004 Facebook goes online.  In 2006 AOL changes its business model.
+References (all accessed March 22, 2019)</p>
+<ul>
+<li>https://www.computerhistory.org/internethistory/1990s/</li>
+<li>https://www.nap.edu/read/6323/chapter/9#180</li>
+<li>http://www.datesandevents.org/events-timelines/11-internet-history-timeline.htm</li>
+<li>https://online.jefferson.edu/communications/internet-history-timeline/</li>
+<li>https://web30.web.cern.ch/</li>
+</ul>
+
+
+
+
+
+Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+
+
+Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
 

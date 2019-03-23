@@ -201,8 +201,13 @@ Each page has its own style folder.</p>
 <ul>
   <li>Learned to change vh to auto!!</li>
   <li>Needed to add h1,h2 etc to my page to make it searchable</li>
-  <li>Inserted a favicon.</li>
+  <li>I didn't create a personal logo but created a favicon. Inserted a favicon.</li>
 </ul>
+
+![favicon](https://github.com/rdematteo/portfolio/blob/master/logo.ico)
+
+
+
 <p></p>
 
 

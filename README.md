@@ -60,24 +60,26 @@ https://github.com/rdematteo/portfolio
 ![inspiration-photo](https://github.com/rdematteo/portfolio/blob/master/pics/landing_page_smaller_res.jpg)
 
 **<p>Figma</p>**
-<p>I have used figma to create my webpage. It includes the inspiraation, wireframes (laptop and mobile), color palettes, fonts, 
+<p>I have used figma to create my webpage. It includes the inspiraation, wireframes (laptop and mobile), color palettes, fonts. Refer to figma https://www.figma.com/file/0qotQLAdC2JRfx9pZwfWniMX/Portfolio?node-id=0%3A1<p>
 
-![inspiration-photo](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_all.png)
+![figma_all](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_all.png)
 
 
-The design of my page compliments my character. Not complex, delivering information in an easy format. 
+<p>The design of my page compliments my character. Not complex, delivering information in an easy format.</p>
 I learn by experimenting and making mistakes however I keep the end goal in mind. 
 
-Colors
-I have picked 4 colours from the photo and then went to https://mycolor.space to create colour palettes. Refer to figma https://www.figma.com/file/0qotQLAdC2JRfx9pZwfWniMX/Portfolio?node-id=0%3A1 or sceen shot below 
+*Colors*
+<p>I have picked 4 colours from the photo and then went to https://mycolor.space to create colour palettes.</p>
+
+![color palettes](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
+
+*Fonts*
+<p>I visited https://www.canva.com/learn/canva-for-work-brand-fonts/ to view font combinations. From the three combinations I choose, i then visited google.fonts to see if they are available. Google fonts also have suggested pairings. Out of the 3 different options, two fonts were not avaiable. Thus I have chosen, Merriweather font with the suggesgtions from Google fonts for the other fonts, namely Montserrat and Oswald.</p> 
+
+![fonts](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
 
 
 
-
-
-
-Fonts
-I visited https://www.canva.com/learn/canva-for-work-brand-fonts/ to view font combinations. From the three combinations I choose, i then visited google.fonts to see if they are available. Google fonts also have suggested pairings. Out of the 3 different options, two fonts were not avaiable. Thus I have chosen, Merriweather font with the suggesgtions from Google fonts
 
 About me page.
 I had a few options with design of page. Either a full picture or crop the picture and paste across top and down one side. Nav Bar in side pic. I decided on the later design. 

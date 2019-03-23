@@ -93,13 +93,10 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 ![fonts](https://github.com/rdematteo/portfolio/blob/master/pics-README/font_pairings.png)
 
 
-*About me page.*
+*About me page*
 <p>I had a few options with design of page. Either a full picture or crop the picture and paste across top and down one side. Nav Bar in side pic. I decided on the later design.</p>
 
-
-![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
-
-
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_about_me.png)
 
 *Skills page*
 <p>Same design with pictures across top and left-hand-side from about me page.
@@ -110,7 +107,7 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
   <li>Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.</li>
 </ul>
 
-![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_skills.png)
 
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
@@ -149,16 +146,18 @@ link https://github.com/rdematteo/portfolio/tree/master
 
 ![html about me page](https://github.com/rdematteo/portfolio/blob/master/pics-README/html_landing.png)
 
-
 *About me*
-I structured the content in with 2 row. Top row has two columns - one with title of page and the other with my photo. The bottom row has same width as top row and contains text. This is illustrated below.</p>
-Again position of elements was difficult. Initially position nav bar on RHS in its own div element but then found it difficult to align all other div elements. I needed to include the nav div in the main container.
-Learned that the a tag is overridden by class. need to enclose a and class in the same tag. The I could remove text decoration.
-Coloring the position of the boxes helpd immensley in term of positioning.
-Now the basic format of page is constructed the other parts should be easier to construct. 
-**Include photo**
+<p>I structured the content in with 2 row. Top row has two columns - one with title of page and the other with my photo. The bottom row has same width as top row and contains text. This is illustrated below.</p>
 
 ![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
+
+<p>Again position of elements was difficult. Initially position nav bar on RHS in its own div element but then found it difficult to align all other div elements. I needed to include the nav div in the main container.</p>
+<p>Learned that the a tag is overridden by class. need to enclose a and class in the same tag. Then I could remove text decoration.</p>
+<p>Coloring the position of the boxes helpd immensley in term of positioning.</p>
+<p>Now the basic format of page is constructed the other parts should be easier to construct.</p>
+**Include photo**
+
+
 
 
 

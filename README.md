@@ -110,19 +110,20 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 ![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_skills.png)
 
 *Colors selection*
-It was difficult to find the most appropriate colors for the 3 panels. This was my first design.
+<p>It was difficult to find the most appropriate colors for the 3 panels. This was my first design.</p>
 
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_panel_initial.png)
 
-I then used a color wheel calculator https://www.sessions.edu/color-calculator/ to find a tetrdic of color for my main brown color (#4c2a05) 
+<p>I then used a color wheel calculator https://www.sessions.edu/color-calculator/ to find a tetrdic of color for my main brown color (#4c2a05) 
 
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_wheel.png)
 
-and light shades of the new three colors
+<p>and light shades of the new three colors</p>
 
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_shades.png)
 
-and the final result!!
+<p>and the final result!! Very happy </p>
+
 ![skills panel color design initial](https://github.com/rdematteo/portfolio/blob/master/pics-README/sskills_colocr_final.png)
 
 

@@ -92,18 +92,27 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 <p>I had a few options with design of page. Either a full picture or crop the picture and paste across top and down one side. Nav Bar in side pic. I decided on the later design. 
 I structured the content in with 2 row. Top row has two columns - one with title of page and the other with my photo. The bottom row has same width as top row and contains text. This is illustrated below.</p>
 
-![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/font_pairings.png)
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
+
+*Skills page.*
+<p>Same design with pictures across top and left-hand-side from about me page.
+I hvae three main industry sectors where I have gained/gaining my skills 1)Coder Academy 2)research industry 3) University sector. I have decided to make three columns; one for each skill base and siatisfy criteria for study and work history</p>
+<ul>There will be three rows.
+  <li>First row; title</li>
+  <li>Second Row; Descritpion about different idustries</li>
+  <li>Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.</li>
+</ul>
+
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
 
 
 
 
-Skills page.
-Same design with pictures across top and left-hand-side from about me page.
-I hvae three main industry sectors where I have gained/gaining my skills 1)Coder Academy 2)research industry 3) University sector. I have decided to make three columns; one for each skill base.  
-There will be three rows.
-First row; title
-Second Row; Descritpion about different idustries
-Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.
+
+
+
+
+
 
 Creation of github pages
 link https://github.com/rdematteo/portfolio/tree/master

@@ -25,9 +25,20 @@ A simple webpage with a landing page and links to other pages. All pages will ha
 ![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
 
 
-1. Screenshots
-1. Target audience
-1. Tech stack (e.g. html, css, deployment platform, etc)
+4. Screenshots<br>
+Screenshots are included throughout the README.md. These includes screenshots of Trello, Github Pages, Figma, Color Website, Contrast.<br>
+
+5. Target audience<br>
+Potential employers, Coder Academy Educaors, fellow students.<br>
+
+6. Tech stack (e.g. html, css, deployment platform, etc) <br>
+* Programming language (Client side): 
+ * Markup langage: HTML
+ * Stylesheet : CSS
+* Framework: Netlify - using JavaScript
+* Web server: Netlify
+* Cloud storage: GitHub
+
 
 
 

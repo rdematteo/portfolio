@@ -82,6 +82,11 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 
 ![color palettes](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
 
+<p>Taken from mycolor.space</p>
+
+![mycolor space](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
+
+
 *Fonts*
 <p>I visited https://www.canva.com/learn/canva-for-work-brand-fonts/ to view font combinations. From the three combinations I choose, i then visited google.fonts to see if they are available. Google fonts also have suggested pairings. Out of the 3 different options, two fonts were not avaiable. Thus I have chosen, Merriweather font with the suggesgtions from Google fonts for the other fonts, namely Montserrat and Oswald.</p> 
 
@@ -107,33 +112,38 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
+<p>GitHub repo creation</p>
 
 ![git hub](https://github.com/rdematteo/portfolio/blob/master/pics-README/github_creation.png)
 
+<p>GitHub repo uasgae</p>
+
 ![git hub usage](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_usage.png)
+
+<p>GitHub log</p>
 
 ![git hub log](https://github.com/rdematteo/portfolio/blob/master/pics-README/git_hub_log.png)
 
+*Directory setup in github*
+<ul>
+  <li>All separate webpages will be in contained in separate folders.</li>
+  <li>I will create a buttons css file and import into each index.css file.</li>
+  <li>I will use var for commonly used colors".</li>
+
+*Reduce an image's file size*
+<p>These are the instruction to resize image so page does not take a long time to load.</p>
+<ol>
+  <li>In the Preview app on your Mac, open the file you want to change.</li>
+  <li>Choose Tools > Adjust Size, then select “Resample image.”</li>
+  <li>Enter a smaller value in the Resolution field. The new size is shown at the bottom. Custom size: 1440x900px. reduced image siaze from 1.6MG to 301kb</li>
+</ol>
 
 
-
-
-
-
-Reduce an image's file size
-In the Preview app on your Mac, open the file you want to change.
-Choose Tools > Adjust Size, then select “Resample image.”
-Enter a smaller value in the Resolution field. The new size is shown at the bottom. Custom size: 1440x900px. reduced image siaze from 1.6MG to 301kb
-
-Hard coding pages
-In general all separate pages will be contained in separate folders. 
-I will create a buttons css file and import into each index.css file.
-
-
-Landing page.
-Found it difficult to position elements on the page. 
-Found it difficult to change colors of icons. Lots of fiddling with attributes and functions to achieve desired result.
-Had an issue with div lining up vertically. Found content was going off full page. Solution; put eveything in an outer-container.
+**Hard Coding pages**
+*Landing page.*
+<p>Found it difficult to position elements on the page.</p> 
+<p>Found it difficult to change colors of icons. Lots of fiddling with attributes and functions to achieve desired result.</p>
+<p>Had an issue with div lining up vertically. Found content was going off full page. Solution; put eveything in an outer-container.</p>
 
 
 About me

@@ -50,6 +50,14 @@ https://github.com/rdematteo/portfolio
 **<p>Design documentation including</p>**
 <ol>
   <li>Design process</li>
+
+*Trello*
+<p>I used trello to track what (i)to do (ii)doing and (iii)completed.</p>
+
+![trello 1](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
+
+![trello 2](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
+
 <p>It was difficult to come up with a design and started to think about a primary colour scheme of blue (my favourite color) and use of secondary, tertiary colours from this initial colour. I came across a webpage that used a photgraph for the background https://www.loungelizard.com/.</p>
 
 ![inspiration-site](https://github.com/rdematteo/portfolio/blob/master/pics-README/inspiration.png)
@@ -76,7 +84,7 @@ I learn by experimenting and making mistakes however I keep the end goal in mind
 *Fonts*
 <p>I visited https://www.canva.com/learn/canva-for-work-brand-fonts/ to view font combinations. From the three combinations I choose, i then visited google.fonts to see if they are available. Google fonts also have suggested pairings. Out of the 3 different options, two fonts were not avaiable. Thus I have chosen, Merriweather font with the suggesgtions from Google fonts for the other fonts, namely Montserrat and Oswald.</p> 
 
-![fonts](https://github.com/rdematteo/portfolio/blob/master/pics-README/color_pallete.png)
+![fonts](https://github.com/rdematteo/portfolio/blob/master/pics-README/font_pairings.png)
 
 
 

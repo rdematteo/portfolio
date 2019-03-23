@@ -103,7 +103,7 @@ I hvae three main industry sectors where I have gained/gaining my skills 1)Coder
   <li>Third row; 3 columns, each with a separate skill base. Each skill base will be coloured.</li>
 </ul>
 
-![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/about_me_div_colors.png)
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_colors.png)
 
 
 

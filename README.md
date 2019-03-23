@@ -1,6 +1,5 @@
-# portfolio
+# Portfolio
 Coderacademy Portfolio assignment
-When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return.
 
 **A link (URL) to your published portfolio website**
 I have utilised netlify to publish on the web. The address is below<br>
@@ -12,35 +11,42 @@ https://github.com/rdematteo/portfolio
 **Description of your portfolio website, including,**
 <ol>
   <li>Purpose</li>
-  The portfolio was designed to show potential employers
-  <ul>Information about me
-    <li>My skills</li>
-    <li>My projects</li>
-    <li>How to contact me</li>
-  </ul>
-  </ol>
+    The portfolio was designed to show potential employers
+    <ul>
+      <li>Information about me</li>
+      <li>My skills</li>
+      <li>My projects</li>
+      <li>How to contact me</li>
+    </ul>
+
  
-2. Functionality / features<br>
-A simple webpage with a landing page and links to other pages. All pages will have links to all the other pages. See sitemap below
+  <li>Functionality / features</li>
+  A simple webpage with a landing page and links to other pages. All pages will have links to all the other pages. See sitemap below
 
-3. Sitemap<br>
+  <li>Sitemap<br>
 
-![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
+  ![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
 
 
-4. Screenshots<br>
-Screenshots are included throughout the README.md. These includes screenshots of Trello, Github Pages, Figma, Color Website, Contrast.<br>
+  <li>Screenshots</li>
+  Screenshots are included throughout the README.md. These includes screenshots of Trello, Github Pages, Figma, Color Website, Contrast.<br>
 
-5. Target audience<br>
-Potential employers, Coder Academy Educaors, fellow students.<br>
+  <li>Target audience</li>
+  Potential employers, Coder Academy Educaors, fellow students.<br>
 
-6. Tech stack (e.g. html, css, deployment platform, etc) <br>
-* Programming language (Client side): 
- * Markup langage: HTML
- * Stylesheet : CSS
-* Framework: Netlify - using JavaScript
-* Web server: Netlify
-* Cloud storage: GitHub
+  <li>Tech stack (e.g. html, css, deployment platform, etc)</li>
+    <ul>
+      <li>Programming language (Client side):</li> 
+        <ul>
+          <li> Markup langage: HTML</li>
+          <li> Stylesheet : CSS</li>
+        </ul>
+      <li> Framework: Netlify - using JavaScript</li>
+      <li> Web server: Netlify</li>
+      <li> Cloud storage: GitHub</li>
+    </ul>
+
+</ol>
 
 
 

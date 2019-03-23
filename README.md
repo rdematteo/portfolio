@@ -112,12 +112,12 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 *Project Page*
 <p>Design of projects page below</p>
 
-![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_projects.png)
+![Proect Page](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_projects.png)
 
 *Contact page*
 <p>Design of Contact me page below</p>
 
-![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_contactme.png)
+![Contact me page](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_contactme.png)
 
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master
@@ -152,7 +152,7 @@ link https://github.com/rdematteo/portfolio/tree/master
 
 
 
-**Hard Coding pages**
+**<p>Hard Coding pages</p>**
 *Landing page.*
 <p>Found it difficult to position elements on the page.</p> 
 <p>Found it difficult to change colors of icons. Lots of fiddling with attributes and functions to achieve desired result.</p>
@@ -169,20 +169,19 @@ link https://github.com/rdematteo/portfolio/tree/master
 <p>Learned that the a tag is overridden by class. need to enclose a and class in the same tag. Then I could remove text decoration.</p>
 <p>Coloring the position of the boxes helpd immensley in term of positioning.</p>
 <p>Now the basic format of page is constructed the other parts should be easier to construct.</p>
-**Include photo**
 
+![about me](https://github.com/rdematteo/portfolio/blob/master/pics-README/html_aboutme.png)
 
+*Skills page*
+<p>Getting a little faster to produce the webpage. Starting to get a good understanding of flexbox and its attributes. Using the different background colors for my different skill bases is going to be a challenge. I will need to experiment with different colors to achieve the best result. Here is an example</p>
 
+![skills page colors](https://github.com/rdematteo/portfolio/blob/master/pics-README/skills_color_trial.png)
 
+*Contacts page*
+<p>Created but not happy with page. Has no simple design to it. Unfortuneatley I did not take a screen shot of it. I search the web and found a contact me page I liked and will try to re-create some aspects of it's style.</p>
 
+![contact me idea](https://github.com/rdematteo/portfolio/blob/master/pics-README/contact_me_idea.png)
 
-
-
-Skills page
-Getting a little faster to produce the webpage. Starting to get a good understanding of flexbox and its attributes. Using the different background colors for my different skill bases is going to be a challenge. I will need to experiemnts with different colors to achieve the best result. Here is an example 
-**photo skill **
-
-Contacts page.
 
 
 Styles

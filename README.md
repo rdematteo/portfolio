@@ -2,7 +2,7 @@
 Coderacademy Portfolio assignment
 
 **A link (URL) to your published portfolio website**
-I have utilised netlify to publish on the web. The address is below<br>
+<p>I have utilised netlify to publish on the web. The address is below</p>
 https://rdematteo.netlify.com/
 
 **A link to your GitHub repository**<br>
@@ -23,16 +23,16 @@ https://github.com/rdematteo/portfolio
   <li>Functionality / features</li>
   A simple webpage with a landing page and links to other pages. All pages will have links to all the other pages. See sitemap below
 
-  <li>Sitemap<br>
+  <li>Sitemap</li>
 
   ![site-map](https://github.com/rdematteo/portfolio/blob/master/pics/site_map_portfolio.jpeg)
 
 
   <li>Screenshots</li>
-  Screenshots are included throughout the README.md. These includes screenshots of Trello, Github Pages, Figma, Color Website, Contrast.<br>
+  Screenshots are included throughout the README.md. These includes screenshots of Trello, Github Pages, Figma, Color Website, Contrast.
 
   <li>Target audience</li>
-  Potential employers, Coder Academy Educaors, fellow students.<br>
+  Potential employers, Coder Academy Educaors, fellow students.
 
   <li>Tech stack (e.g. html, css, deployment platform, etc)</li>
     <ul>
@@ -45,9 +45,9 @@ https://github.com/rdematteo/portfolio
       <li> Web server: Netlify</li>
       <li> Cloud storage: GitHub</li>
     </ul>
-
 </ol>
 
+**<p>Design documentation including</p>**
 
 
 

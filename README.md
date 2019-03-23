@@ -117,7 +117,7 @@ I have three main industry sectors where I have gained/gaining my skills 1) Code
 *Contact page*
 <p>Design of Contact me page below</p>
 
-![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_contact_me.png)
+![skills](https://github.com/rdematteo/portfolio/blob/master/pics-README/figma_contactme.png)
 
 *Creation of github pages*
 link https://github.com/rdematteo/portfolio/tree/master

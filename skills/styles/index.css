@@ -32,12 +32,14 @@ h2 {
   text-align: center;
   color: white;
   padding: 10px 0px;
+  font-size: 20px;
 }
 p {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   margin: 5px 0px 0px 10px;
   font-weight: bold;
+  line-height: 1.5;
 }
 
 ul {
@@ -47,6 +49,7 @@ ul {
 li {
   margin: 6px;
   font-family: "Roboto", sans-serif;
+  line-height: 1.5;
 }
 
 .outer-container {

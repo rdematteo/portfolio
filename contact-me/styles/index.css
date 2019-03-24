@@ -19,6 +19,13 @@
   --brown: #4c2a05;
   --h1: #4c2a05;
 }
+h1 {
+  margin: 0;
+  font-size: 58px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: var(--h1);
+}
 
 .outer-container {
   width: 100vw;
@@ -30,6 +37,16 @@
   background-size: cover;
   justify-content: flex-start;
   align-items: flex-end;
+}
+
+.container {
+  width: 40%;
+  height: 70%;
+  background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 /* links to linkedin and github */
@@ -100,7 +117,7 @@
   /* background: red; */
 }
 .blurb {
-  width: 50%;
+  width: 95%;
   height: 30%;
   /* background: white; */
   display: flex;
@@ -118,17 +135,9 @@
 
 /* form details */
 .form {
-  width: 50%;
-  height: 50%;
+  width: 95%;
+  height: 60%;
   /* background: yellow; */
-}
-
-h1 {
-  margin: 0;
-  font-size: 58px;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  color: var(--h1);
 }
 
 .name {
@@ -195,17 +204,44 @@ h1 {
   text-shadow: none;
   cursor: pointer;
 }
+
+@media only screen and (max-width: 1100px) and (min-width: 850px) {
+  h1 {
+    font-size: 40px;
+  }
+  .blurb p {
+    font-size: 20px;
+  }
+}
+
 @media only screen and (max-width: 850px) and (min-width: 700px) {
   h1 {
-    margin: 0;
-    font-size: 45px;
-    font-family: "Montserrat", sans-serif;
-    text-align: center;
-    color: var(--h1);
+    font-size: 38px;
+  }
+  .blurb p {
+    font-size: 18px;
+  }
+  .container {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 814px) and (orientation: landscape) {
+  h1 {
+    font-size: 8px;
+    color: red;
   }
 }
 
 @media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  .container {
+    width: 95%;
+    height: 90%;
+  }
   .outer-container {
     height: 100vh;
     width: 100%;
@@ -214,7 +250,7 @@ h1 {
     height: 95%;
     width: 80%;
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
   .sidenav {
     height: 100%;
@@ -254,13 +290,5 @@ h1 {
 
   #submit {
     width: 100%;
-  }
-
-  h1 {
-    margin: 0;
-    font-size: 32px;
-    font-family: "Montserrat", sans-serif;
-    text-align: center;
-    color: var(--h1);
   }
 }

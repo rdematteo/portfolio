@@ -29,56 +29,59 @@
   <body>
     <div class="outer-container">
       <div class="main">
-        <div class="blurb">
-          <h1>Contact me</h1>
-          <p>You know you want to...</p>
+        <div class="container">
+          <div class="blurb">
+            <h1>Contact me</h1>
+            <p>You know you want to...</p>
+          </div>
+          <div class="form">
+            <form
+              action="https://formspree.io/robertdematteo@hotmail.com"
+              method="POST"
+            >
+              <div class="name">
+                <!-- <label for="name">Your name</label> -->
+                <input type="text" name="name" id="name" placeholder="Name" />
+              </div>
+              <div class="email">
+                <!-- <label for="Email1" >Email address</label> -->
+                <input
+                  type="email"
+                  name="_replyto"
+                  placeholder="Email"
+                  id="email"
+                />
+              </div>
+              <div class="message">
+                <textarea
+                  name="message"
+                  placeholder="Message"
+                  id="message"
+                ></textarea>
+              </div>
+              <div class="submit">
+                <input type="submit" value="Send" id="submit" />
+              </div>
+            </form>
+          </div>
+          </div>
         </div>
-        <div class="form">
-          <form
-            action="https://formspree.io/robertdematteo@hotmail.com"
-            method="POST"
-          >
-            <div class="name">
-              <!-- <label for="name">Your name</label> -->
-              <input type="text" name="name" id="name" placeholder="Name" />
-            </div>
-            <div class="email">
-              <!-- <label for="Email1" >Email address</label> -->
-              <input
-                type="email"
-                name="_replyto"
-                placeholder="Email"
-                id="email"
-              />
-            </div>
-            <div class="message">
-              <textarea
-                name="message"
-                placeholder="Message"
-                id="message"
-              ></textarea>
-            </div>
-            <div class="submit">
-              <input type="submit" value="Send" id="submit" />
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="sidenav">
-        <div class="links">
-          <a href="../index.html" class="button-general">Home</a>
-          <a href="../about-me/index.html" class="button-general">About Me</a>
-          <a href="../skills/index.html" class="button-general">Skills</a>
-          <a href="../projects/index.html" class="button-general">Projects</a>
-        </div>
-        <div class="linksextra">
-          <a href="https://www.linkedin.com/in/robert-de-matteo-2135641a/"
-            ><i class="fab fa-linkedin-in"></i
-          ></a>
-          <a href="https://github.com/rdematteo/portfolio/tree/master"
-            ><i class="fab fa-github-square"></i
-          ></a>
-        </div>
+        <div class="sidenav">
+          <div class="links">
+            <a href="../index.html" class="button-general">Home</a>
+            <a href="../about-me/index.html" class="button-general">About Me</a>
+            <a href="../skills/index.html" class="button-general">Skills</a>
+            <a href="../projects/index.html" class="button-general">Projects</a>
+          </div>
+          <div class="linksextra">
+            <a href="https://www.linkedin.com/in/robert-de-matteo-2135641a/"
+              ><i class="fab fa-linkedin-in"></i
+            ></a>
+            <a href="https://github.com/rdematteo/portfolio/tree/master"
+              ><i class="fab fa-github-square"></i
+            ></a>
+          </div>
+        
       </div>
     </div>
   </body>

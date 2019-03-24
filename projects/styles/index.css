@@ -19,12 +19,24 @@
   --brown: #4c2a05;
   --h1: #4c2a05;
 }
+
+h1 {
+  margin: 0;
+  font-size: 58px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: var(--h1);
+}
+
 h2 {
   margin: 0px;
   text-align: center;
-  color: black;
-
+  font-family: "Merriweather", serif;
+  color:white;
+  font-size: 28px;
+  font-weight: lighter;
 }
+
 p {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -125,19 +137,11 @@ li {
   background: linear-gradient(to right, #fff7ef, #ffffff);
 }
 
-h1 {
-  margin: 0;
-  font-size: 58px;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  color: var(--h1);
-}
 
 .text {
-  width: 80%;
+  width: 85%;
   height: 15%;
-  /* background: green; */
-  font-family: "Merriweather", serif;
+  background: green;
   font-size: 72px;
   padding: 0px 0px;
   font-style: italic;
@@ -201,9 +205,10 @@ h1 {
   align-items: center;
 }
 
-.text-heading1 h2 {
+/* .text-heading1 h2 {
   color:white;
-}
+  font-family: "Merriweather", serif;
+} */
 
 .text-project1 p {
   color: black;
@@ -252,9 +257,6 @@ h1 {
   align-items: center;
 }
 
-.text-heading2 h2 {
-  color:white;
-}
 
 .project3 {
   width: 33%;
@@ -292,10 +294,6 @@ h1 {
   display:flex;
   justify-content: center;
   align-items: center;
-}
-
-.text-heading3 h2 {
-  color:white;
 }
 
 @media only screen and (max-width: 800px) {

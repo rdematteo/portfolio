@@ -17,6 +17,16 @@
   --h1: #4c2a05;
 }
 
+
+h1 {
+  margin: 0;
+  font-size: 58px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  color: var(--h1);
+}
+
+
 /* most outer container */
 .outer-container {
   width: 100vw;
@@ -110,14 +120,6 @@
   display: flex;
   align-items: center;
   /* color: #128756; */
-}
-
-h1 {
-  margin: 0;
-  font-size: 58px;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  color: var(--h1);
 }
 
 .image {

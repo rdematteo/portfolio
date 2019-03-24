@@ -15,6 +15,30 @@
   --black: #000000;
 }
 
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  font-style: italic;
+  color: var(--light-yellow);
+  margin: 0px;
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 36px;
+  font-style: italic;
+  color: var(--light-brown);
+  margin: 10px 0px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-style: italic;
+  color: var(--light-brown);
+  margin: 0px;
+}
+
 .nav-box {
   height: 50px;
   width: 80px;
@@ -46,30 +70,7 @@
   /* background: blue; */
 }
 
-h1 {
-  font-family: "Merriweather", serif;
-  font-size: 48px;
-  padding: 0px 0px 10px 0px;
-  font-style: italic;
-  color: var(--light-yellow);
-  margin: 0px;
-}
 
-h2 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 36px;
-  padding: 0px 0px 10px 0px;
-  font-style: italic;
-  color: var(--light-brown);
-}
-
-h3 {
-  font-family: "Roboto", sans-serif;
-  font-size: 24px;
-  padding: 0px 0px 10px 0px;
-  font-style: italic;
-  color: var(--light-brown);
-}
 
 .footer {
   width: 100%;

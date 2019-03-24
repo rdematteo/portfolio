@@ -252,6 +252,11 @@ p {
 
 
 @media only screen and (max-width: 1200px) and (min-width: 900px) {
+  h1 {
+    margin: 0;
+    font-size: 34px;
+  }
+  
   .right-box {
     height: 95%;
     width: 90%;
@@ -259,23 +264,37 @@ p {
   .title {
     font-size: 58px;
   }
-
+  .para1 {
+    /* background: red; */
+    width: 75%;
+  }
   .lower {
     height: 70%;
+    margin: 0px;
   }
 
   .upper {
     width: 90%;
-    height: 27%;
+    height: 10%;
     /* background: black; */
     display: flex;
-    align-items: center;
+    align-items: flex-start;
   }
 
-  h1 {
-    margin: 0;
-    font-size: 34px;
+  .photos {
+    width: 800px;
+    height: 400px;
+    /* background: red; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
   }
+.image {
+  width: 200px;
+  height: 220px;
+}
+
+
 }
 
 @media only screen and (max-width: 900px) and (min-width: 700px) {

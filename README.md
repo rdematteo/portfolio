@@ -291,4 +291,8 @@ References (all accessed March 22, 2019)</p>
 
 </ul>
 
+**Finally**
+Many thanks to the Melbourne CA educators and to my girls for thier feedback.
+
+![my girls](https://github.com/rdematteo/portfolio/blob/master/pics-README/my_girls.jpg)
 

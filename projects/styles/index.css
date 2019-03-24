@@ -58,7 +58,6 @@ li {
 .outer-container {
   width: 100vw;
   height: 100vh;
-  /* background: pink; */
   display: flex;
   background: url(../../pics/landing_page_final.jpg);
   background-position: center;
@@ -71,7 +70,6 @@ li {
 .nav-box {
   height: 50px;
   width: 40px;
-  /* background: red; */
   display: flex;
   justify-content: flex-end;
   padding: 10px 10px;
@@ -80,7 +78,6 @@ li {
 
 /* main container */
 .main-container {
-  /* background: red; */
   width: 85%;
   height: 90%;
   display: flex;
@@ -140,7 +137,6 @@ li {
 .text {
   width: 85%;
   height: 15%;
-  /* background: green; */
   font-size: 72px;
   padding: 0px 0px;
   font-style: italic;
@@ -154,14 +150,12 @@ li {
 .project-boxes {
   height: 90%;
   width: 90%;
-  /* background: gray; */
   display: flex;
 }
 
 .project1 {
   width: 33%;
   height: 90%;
-  /* background: blue; */
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -203,11 +197,6 @@ li {
   align-items: center;
 }
 
-/* .text-heading1 h2 {
-  color:white;
-  font-family: "Merriweather", serif;
-} */
-
 .text-project1 p {
   color: black;
   font-size: 14px;
@@ -217,7 +206,6 @@ li {
 .project2 {
   width: 33%;
   height: 90%;
-  /* background: red; */
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -257,7 +245,6 @@ li {
 .project3 {
   width: 33%;
   height: 90%;
-  /* background:orange; */
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -362,13 +349,8 @@ li {
   }
 }
 
-
 @media only screen and (max-width: 1400px) and (min-width: 800px) and (orientation: landscape) {
-
-
 }
-
-
 
 @media only screen and (max-width: 700px) {
   h1 {
@@ -397,8 +379,6 @@ li {
 
   .outer-container {
     height: auto;
-    /* flex-direction: row-reverse; */
-    /* align-items: flex-start; */
   }
 
   .title {
@@ -417,8 +397,6 @@ li {
   }
   .project1 {
     width: 95%;
-    /* height: 100%; */
-    /* flex-wrap: wrap; */
     margin: 20px 0px;
   }
   .project2 {

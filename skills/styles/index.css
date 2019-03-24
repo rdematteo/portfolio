@@ -69,7 +69,6 @@ li {
 .right-box {
   width: 85%;
   height: 90%;
-  /* background:white; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -79,7 +78,6 @@ li {
 .content {
   width: 95%;
   height: 90%;
-  /* background: blue; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -90,7 +88,6 @@ li {
 .blurb {
   width: 95%;
   height: 10%;
-  /* background: purple; */
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   padding: 0px 0px;
@@ -101,7 +98,6 @@ li {
 .title {
   width: 95%;
   height: 10%;
-  /* background: red; */
   font-family: "Merriweather", serif;
   padding: 0px 0px 0px 10px;
   font-style: italic;
@@ -111,7 +107,6 @@ li {
 .skill {
   width: 95%;
   height: 80%;
-  /* background: black; */
   display: flex;
   justify-content: space-evenly;
 }
@@ -124,7 +119,6 @@ li {
   background: #ecebf5;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  /* padding: 0px px; */
   font-style: italic;
   display: flex;
   flex-direction: column;
@@ -154,7 +148,6 @@ li {
   background: #f7fadc;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  /* padding: 0px 5px; */
   font-style: italic;
   display: flex;
   flex-direction: column;
@@ -166,7 +159,6 @@ li {
   background: #f7d7f4;
   font-family: "Montserrat", sans-serif;
   font-size: 24 px;
-  /* padding: 0px 5px; */
   font-style: italic;
   display: flex;
   flex-direction: column;
@@ -192,21 +184,18 @@ li {
 }
 
 .linksextra {
-  /* background: blue; */
   width: 40px;
   height: 25%;
   display: flex;
   justify-content: space-between;
   padding: 10px 10px;
   align-items: flex-end;
-  /* background: red; */
 }
 
 /* links to linkedin and github */
 .nav-box {
   height: 50px;
   width: 40px;
-  /* background: red; */
   display: flex;
   justify-content: flex-end;
   padding: 10px 10px;
@@ -214,6 +203,11 @@ li {
 }
 
 @media only screen and (max-width: 800px) {
+  h1 {
+    margin: 0;
+    font-size: 34px;
+  }
+
   .skill {
     flex-direction: column;
     height: 50%;
@@ -246,10 +240,6 @@ li {
     height: 8%;
   }
 
-  h1 {
-    margin: 0;
-    font-size: 34px;
-  }
   .content {
     height: 100%;
     display: flex;

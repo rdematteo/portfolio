@@ -292,7 +292,7 @@ li {
   align-items: center;
 }
 
-@media only screen and (max-width: 1400px) and (min-width: 800px) {
+@media only screen and (max-width: 1400px) and (min-width: 700px) {
   h1 {
     font-size: 46px;
   }
@@ -362,7 +362,15 @@ li {
   }
 }
 
-@media only screen and (max-width: 800px) {
+
+@media only screen and (max-width: 1400px) and (min-width: 800px) and (orientation: landscape) {
+
+
+}
+
+
+
+@media only screen and (max-width: 700px) {
   h1 {
     font-size: 48px;
     margin: 10px;

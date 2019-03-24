@@ -20,10 +20,10 @@
   --h1: #4c2a05;
 }
 h2 {
-  margin: 5px;
+  margin: 0px;
   text-align: center;
   color: black;
-  padding: 10px 0px;
+
 }
 p {
   font-family: "Roboto", sans-serif;
@@ -151,7 +151,7 @@ h1 {
 
 .project-boxes {
   height: 90%;
-  width: 80%;
+  width: 90%;
   /* background: gray; */
   display: flex;
 }
@@ -159,7 +159,7 @@ h1 {
 .project1 {
   width: 33%;
   height: 90%;
-  /* background:blue; */
+  /* background: blue; */
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -173,6 +173,7 @@ h1 {
   background-image: url(../../pics/projects_1.png);
   background-position: center;
   background-size: cover;
+  box-sizing: border-box;
 }
 /* experimental */
 /* .image-project1:hover {
@@ -189,7 +190,19 @@ h1 {
 .text-project1 {
   width: 350px;
   height: 80%;
-  background: white;
+  background: #ecebf5;
+}
+
+.text-heading1 {
+  background: #09054c;
+  height: 70px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-heading1 h2 {
+  color:white;
 }
 
 .text-project1 p {
@@ -197,6 +210,7 @@ h1 {
   font-size: 14px;
   text-align: justify;
 }
+
 
 .project2 {
   width: 33%;
@@ -215,12 +229,13 @@ h1 {
   background-image: url(../../pics/landing_page_smaller_res.jpg);
   background-position: center;
   background-size: cover;
+  box-sizing: border-box;
 }
 
 .text-project2 {
   width: 350px;
   height: 80%;
-  background: white;
+  background: #f7d7f4;
 }
 
 .text-project2 p {
@@ -228,6 +243,19 @@ h1 {
   font-size: 14px;
   text-align: justify;
 }
+
+.text-heading2 {
+  background: #4c0548;
+  height: 70px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-heading2 h2 {
+  color:white;
+}
+
 .project3 {
   width: 33%;
   height: 90%;
@@ -242,20 +270,32 @@ h1 {
   height: 200px;
   background: white;
   border: 1px solid black;
-  background-image: url(../../pics/rob_pic2.png);
+  background-image: url(../../pics/looking_forward.jpg);
   background-position: center;
   background-size: cover;
+  box-sizing: border-box;
 }
 
 .text-project3 {
   width: 350px;
   height: 80%;
-  background: white;
+  background: #f7fadc;
 }
 .text-project3 p {
   color: black;
   font-size: 14px;
   text-align: justify;
+}
+.text-heading3 {
+  background: #484c05;
+  height: 70px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-heading3 h2 {
+  color:white;
 }
 
 @media only screen and (max-width: 800px) {

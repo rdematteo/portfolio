@@ -17,7 +17,6 @@
   --h1: #4c2a05;
 }
 
-
 h1 {
   margin: 0;
   font-size: 58px;
@@ -26,6 +25,10 @@ h1 {
   color: var(--h1);
 }
 
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
 
 /* most outer container */
 .outer-container {
@@ -104,14 +107,14 @@ h1 {
 /* upper contains title and image */
 .upper {
   width: 90%;
-  height: 30%;
+  height: 10%;
   /* background: black; */
   display: flex;
   align-items: center;
 }
 
 .title {
-  width: 80%;
+  width: 85%;
   height: 80%;
   /* background: green; */
   font-family: "Merriweather", serif;
@@ -120,11 +123,12 @@ h1 {
   display: flex;
   align-items: center;
   /* color: #128756; */
+  border-bottom: 2px solid gray;
 }
 
 .image {
-  width: 30%;
-  height: 100%;
+  width: 230px;
+  height: 250px;
   background: url(../../pics/rob_pic2.png);
   background-position: right;
   background-size: contain;
@@ -133,32 +137,34 @@ h1 {
 
 .lower {
   width: 90%;
-  height: 50%;
+  height: 55%;
   /* background:purple; */
   text-align: justify;
-  border-top: 2px solid gray;
+ 
   margin: 10px 0px 0px 0px;
 }
 
-.lower p {
-  font-family: "Roboto", sans-serif;
-  font-size: 12px;
+.para1 {
+  /* background: red; */
+  width: 82%;
 }
 
+
 .photos {
-  width: 800px;
+  width: 1000px;
   height: 200px;
   /* background: red; */
   display: flex;
   /* flex-direction: column; */
+  justify-content: space-between;
 }
 
 .photo1 {
   width: 200px;
-  height: 300px;
-  background: white;
-  display: flex;
-  flex-direction: column;
+  height: 270px;
+  /* background: white; */
+  /* display: flex;
+  flex-direction: column; */
 }
 
 .picture1 {
@@ -179,8 +185,8 @@ h1 {
 
 .photo2 {
   width: 200px;
-  height: 300px;
-  background: white;
+  height: 270px;
+  /* background: white; */
 }
 
 .picture2 {
@@ -201,8 +207,8 @@ h1 {
 
 .photo3 {
   width: 200px;
-  height: 300px;
-  background: white;
+  height: 270px;
+  /* background: white; */
 }
 
 .picture3 {
@@ -221,10 +227,9 @@ h1 {
   width: 200px;
 }
 
-
 .photo4 {
   width: 200px;
-  height: 300px;
+  height: 270px;
   /* background: black; */
 }
 

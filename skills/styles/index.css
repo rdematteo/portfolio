@@ -39,10 +39,10 @@ h2 {
 
 p {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  margin: 5px 0px 0px 10px;
+  font-size: 13px;
+  margin: 5px 0px 0px 5px;
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 1;
 }
 
 ul {
@@ -50,9 +50,10 @@ ul {
 }
 
 li {
-  margin: 6px;
+  margin: 5px;
   font-family: "Roboto", sans-serif;
-  line-height: 1.5;
+  line-height: 1.2;
+  font-size: 11.5px;
 }
 
 .outer-container {
@@ -87,12 +88,12 @@ li {
 /* next three divs are within content */
 .blurb {
   width: 95%;
-  height: 10%;
+  height: 7%;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   padding: 0px 0px;
   border-bottom: 2px solid gray;
-  margin: 0px 0px 10px 0px;
+  margin: 0px 5px 5px 5px;
 }
 
 .title {
@@ -114,7 +115,7 @@ li {
 /* next three divs are within skill */
 
 .coder {
-  width: 30%;
+  width: 28%;
   height: 100%;
   background: #ecebf5;
   font-family: "Montserrat", sans-serif;
@@ -143,7 +144,7 @@ li {
 }
 
 .scientist {
-  width: 30%;
+  width: 35%;
   height: 100%;
   background: #f7fadc;
   font-family: "Montserrat", sans-serif;
@@ -202,7 +203,7 @@ li {
   align-items: top;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
   h1 {
     margin: 0;
     font-size: 34px;

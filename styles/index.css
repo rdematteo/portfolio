@@ -68,6 +68,14 @@ h3 {
   color: white;
 }
 
+.new-page {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  padding: 1rem 0;   
+}
+
+
 .footer {
   width: 100%;
   height: 100px;

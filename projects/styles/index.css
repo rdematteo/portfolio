@@ -294,56 +294,32 @@ li {
     font-size: 20px;
   }
 
-  .project1 {
-    height: 95%;
-  }
-  .project2 {
-    height: 95%;
-  }
+  .project1,
+  .project2,
   .project3 {
     height: 95%;
-  }
+  }  
 
-  .image-project1 {
-    width: 95%;
-    height: 150px;
-  }
-
-  .image-project2 {
-    width: 95%;
-    height: 150px;
-  }
+  .image-project1,
+  .image-project2,
   .image-project3 {
     width: 95%;
     height: 150px;
   }
 
-  .text-project1 {
-    width: 90%;
-    height: 80%;
-  }
-
-  .text-project2 {
-    width: 90%;
-    height: 80%;
-  }
+  .text-project1,
+  .text-project2,
   .text-project3 {
     width: 90%;
     height: 80%;
   }
-
+ 
   .text-display1 {
     height: 80%;
   }
 
-  .text-project1 p {
-    font-size: 12px;
-  }
-
-  .text-project2 p {
-    font-size: 12px;
-  }
-
+  .text-project1,
+  .text-project2,
   .text-project3 p {
     font-size: 12px;
   }
@@ -401,44 +377,26 @@ li {
   .empty {
     display: none;
   }
-  .project1 {
-    width: 95%;
-    margin: 20px 0px;
-  }
-  .project2 {
-    width: 95%;
-    margin: 20px 0px;
-  }
+  .project1,
+  .project2,
   .project3 {
     width: 95%;
     margin: 20px 0px;
   }
-
-  .image-project1 {
-    height: 150px;
-    width: 95%;
-  }
-
-  .image-project2 {
-    height: 150px;
-    width: 95%;
-  }
+  
+  .image-project1,
+  .image-project2,
   .image-project3 {
     height: 150px;
     width: 95%;
   }
+
 }
 
-.text-project1 {
-  width: 95%;
-  height: 80%;
-}
-
-.text-project2 {
-  width: 95%;
-  height: 80%;
-}
+.text-project1,
+.text-project2,
 .text-project3 {
   width: 95%;
   height: 80%;
 }
+
